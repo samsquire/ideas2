@@ -36,4 +36,4 @@ An filled inbox of questions to answer and questions generated based on my answe
 
 # 8. Active Slides
 
-It should be possible to run a company via presentation software if slides accurately represent processes of the company and they accept inputs. I imagine data collection while presentations are on-screen.
+It should be possible to make decisions in a company via presentation software if slides accurately represent processes of the company and data collection by viewers is possible. I imagine presentations depictions of models (flow diagrams) and frameworks (smartart) could be executable by a workflow engine.
