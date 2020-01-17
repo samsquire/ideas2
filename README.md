@@ -32,6 +32,6 @@ https://lifestyle-subscriptions.com
 
 # 7. Human Query Engine
 
-An inbox of questions to answer and questions upon my answers. Like a chat bot that messages you instead of you messaging it. Uses random lists of words to ask interesting questions such as "Is <thing> better than <thing>" or "How much money do you have in your bank account?". The data collected could be used to implement [life engine](https://github.com/samsquire/ideas#5-life-engine).
+An inbox of questions to answer and questions upon my answers. Like a chat bot that messages you instead of you messaging it. Uses random lists of words to ask interesting questions such as "Is **thingA** better than **thingB**" or "How much money do you have in your bank account?". The data collected could be used to implement [life engine](https://github.com/samsquire/ideas#5-life-engine).
 
 # 8. 
