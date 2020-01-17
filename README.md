@@ -71,7 +71,11 @@ Replace job interviews at individual companies with interviews with an app compa
 
 Desktop computers could be accelerated by doing things remotely. If a user's filesystem is mirrored elsewhere, it can be searched remotely and results served locally without incurring any performance penalty locally. See https://github.com/samsquire/cloud-desktop
 
-# 17. 
+# 17. Data bento box
+
+Download data from various sources online to fill 1 gigabyte of data (reddit, blog posts, articles, free books) and you'll always have some thing to read when you're offline.
+
+# 18. 
 
 
  
