@@ -1,4 +1,4 @@
-# One Thousand Ideas for Computing
+# Another One Hundred Ideas for Computing
 
 # 1. Digital Contracts
 
