@@ -22,4 +22,16 @@ Existing:
 
 # 5. Open Demand Mapping
 
-People can insert demand into a demand marketplace for products and services within a geographical location.
+People can insert demands for products and services into a demand marketplace within a geographical location. I want a dentist within 5 minutes walk of my home. I want a supermarket within 5 minutes walk of my home. In aggregate, people create demands on their local areas.
+
+# 6. Lifestyle subscriptions
+
+There's a single app for following any dream or any lifestyle with user created content. You pay money per month for some thing you want to do, maybe a healthy eating, hobby, sports or gym. Maybe you want to become a musician or you want a lifestyle where you live in suburbs. The company sends you recommended decisions to make, materials and gear that you need for your level of subscription. So if you said you want a lifestyle where you can get to work within 25 minutes, the app would tell you where to move to.
+
+https://lifestyle-subscriptions.com
+
+# 7. Human Query Engine
+
+An inbox of questions to answer and questions upon my answers. Like a chat bot that messages you instead of you messaging it. Uses random lists of words to ask interesting questions such as "Is <thing> better than <thing>" or "How much money do you have in your bank account?". The data collected could be used to implement [life engine](https://github.com/samsquire/ideas#5-life-engine).
+
+# 8. 
