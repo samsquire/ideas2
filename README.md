@@ -63,9 +63,11 @@ The entire GUI should be generatable as response to a query.
 
 As the user mouses around the GUI, a URL should be generated which is a representation of what the user is doing at any point in time including all context from the user's perspective. This is like a very deep link into an application, as the user is a resource. See https://github.com/samsquire/user-urls
 
-# 15. 
+# 15. Free flowing work app
 
+Replace job interviews at individual companies with interviews with an app company to vet people for a certain kind of role. People can look at shop exterior and see a logo of an Accreditation  company and work there if they have been vetted by the app. Transport can be branded by Accreditation company and accreditation app companies can specialise in the quality of the people they hire.
 
+# 16. 
 
 
  
