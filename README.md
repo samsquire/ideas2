@@ -19,6 +19,7 @@ We need a way to define work. All work can be represented digitally. This standa
 Existing:
 
 * BPMN Business Processs Modelling Notation
+* JBPMN
 
 # 5. Open Demand Mapping
 
