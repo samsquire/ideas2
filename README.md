@@ -7,3 +7,5 @@ Contracts should be digitised so that anyone on any side of any contract can see
 # 2. Mobile legal business creation and Personal ERP
 
 I want to see a mobile phone app that implements enterprise resource planning for the gig economy. Someone with a phone should be able to create a business that satisfies all reporting requirements and is a legal entity.
+
+# 3. Paper Work Language with Telework
