@@ -57,7 +57,7 @@ Wouldn't it be nice if you could recommend a song to play with a web page as bac
 
 # 13. GUIs are queries
 
-The entire GUI should be generatable as response to a query.
+The entire GUI could be generatable as response to a query.
 
 # 14. User URLs
 
@@ -75,7 +75,23 @@ Desktop computers could be accelerated by doing things remotely. If a user's fil
 
 An app that downloads data from various sources online to fill 1 gigabyte of data (reddit, blog posts, articles, free books), implements a viewer and always gives you something to read while you're offline.
 
-# 18. 
+# 18. CMS for building webapps
+
+A CMS for webapps: create serverside and clientside routes, register handlers from a GUI.
+
+# 19. Stack-upon
+
+The OSI model makes a whole deal of sense, one layer adds promises on-top of the layers below to create an emergent complexity. Each layer makes promises to other layers. What if we had a visualization of a multi layered spreadsheet whereby each layer is a layer of the architecture of the software. Each layer is like a line in your stacktrace at the same abstraction level. In addition to formula cells representing computation, we have references that represent communication between different labelled cells. Passing data between layers is an interface which either takes you to a layer above or below to where you are at. This is where enterprise service bus mapping screens would come in handy.
+
+# 20. Credit cards to tap into buildings
+
+Credit cards can be used to access buildings.
+
+# 21. 
+
+
+
+
 
 
 
