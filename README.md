@@ -73,9 +73,11 @@ Desktop computers could be accelerated by doing things remotely. If a user's fil
 
 # 17. Data Bento Box
 
-Download data from various sources online to fill 1 gigabyte of data (reddit, blog posts, articles, free books) and you'll always have some thing to read when you're offline. Ideally suited to mobile where connectivity can be an issue.
+An app that downloads data from various sources online to fill 1 gigabyte of data (reddit, blog posts, articles, free books), implements a viewer and always gives you something to read while you're offline.
 
 # 18. 
+
+
 
 
  
