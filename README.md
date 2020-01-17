@@ -45,7 +45,7 @@ Human suffering could be eliminated if everyone had a virtual placement assigned
 
 # 10. Library Mesh
 
-Depending on a library could create a bidirectional contract test that means whenever the library is changed, the dependents are also rebuilt. This would catch signature change bugs.
+Depending on a library could also involve pinging the librarie's software infrastructure so that whenever the library is changed, the dependents are also rebuilt. This would catch code that causes downstream changes to APIs. API changes are expensive.
 
 # 11. 
 
