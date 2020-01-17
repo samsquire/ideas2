@@ -55,9 +55,15 @@ Represent the commands that generate GUIs as a monotonically increasing set of s
 
 Wouldn't it be nice if you could recommend a song to play with a web page as background music.
 
-# 13. 
+# 13. GUIs are queries
 
+The entire GUI should be generatable as response to a query.
 
+# 14. User URLs
+
+As the user mouses around the GUI, a URL should be generated which is a representation of what the user is doing at any point in time including all context from the user's perspective. This is like a very deep link into an application, as the user is a resource. See https://github.com/samsquire/user-urls
+
+# 15. 
 
 
 
