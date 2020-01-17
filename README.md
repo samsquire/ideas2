@@ -36,4 +36,6 @@ An filled inbox of questions to answer and questions generated based on my answe
 
 # 8. Active Slides
 
-It should be possible to make decisions in a company via presentation software if slides accurately represent processes of the company and through data collection of the presentation software. I imagine anybody can connect to the presentation software via mobile device by Wifi. I imagine presentations depictions of models (flow diagrams) and frameworks (smartart) could be executable by a workflow engines. So how companies say they are going to run, is actually how they run.
+It should be possible to make decisions in a company via presentation software if slides accurately represent processes of the company and through data collection of the presentation software. I imagine anybody can connect to the presentation software via mobile device by Wifi. I imagine presentations depictions of models (flow diagrams) and frameworks (smartart) could be executable by a workflow engines. So how companies say they are going to run, is actually how they run. There could be an app store of integrations with presentations for showing information that is up-to-date and live; such as pulling in sales data from internal systems.
+
+# 9. 
