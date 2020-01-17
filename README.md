@@ -45,17 +45,20 @@ Human suffering could be eliminated if everyone had a virtual placement assigned
 
 # 10. Library Mesh
 
-Depending on a library could also involve pinging the librarie's software infrastructure so that whenever the library is changed, the dependents are also rebuilt. This would catch code that causes downstream changes to APIs. API changes are expensive.
+Depending on a library could also involve pinging the libraries' software infrastructure so that whenever the library is changed, the dependents are also rebuilt. This would catch code that causes downstream changes to APIs. API changes are expensive.
 
 # 11. Additive GUIs
 
-Represent the commands that generate GUIs as a monotonically increasing set of statements about the GUI and declaratively render a GUI based on propositions of widgets in relationship to one another. Has the property of being able to extend existing GUIs by simply making more statements. See http://github.com/samsquire/additive-guis
+Represent the commands that generate GUIs as a monotonically increasing set of statements about the GUI and declaratively render a GUI based on propositions of widgets in relationship to one another. Has the property of being able to extend existing GUIs by simply making more statements. See http://github.com/samsquire/additive-guis Imagine if a set of tweets could render a GUI.
 
 # 12. Recommended music for webpage
 
 Wouldn't it be nice if you could recommend a song to play with a web page as background music.
 
 # 13. 
+
+
+
 
 
 
