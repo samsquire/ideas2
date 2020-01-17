@@ -10,7 +10,7 @@ Someone with a phone should be able to just create a business that satisfies all
 
 # 3. Telework
 
-Computational problems can be rendered into labelled graphical video streams upon which people vote. People can solve computational problems with a television monitor, numbered graphs and a keypad. Problems like the travelling salesman problem are solvable by human beings quickly. This is for problems that are not numerical. People can do useful work by pressing numbers in sequence.
+Computational problems can be rendered into labelled graphical video streams upon which people vote. People can solve computational problems with a television monitor, numbered graphs and a keypad that they enter sequences of numbers into. Problems like efficient scheduling of cars for carpooling or deliveries are solvable by human beings quickly with a user interface that allows one to lasso points on the map and add cars. This is for problems that are not strictly numerical.
 
 # 4. Paper Work Language
 
