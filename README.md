@@ -87,7 +87,11 @@ The OSI model makes a whole deal of sense, one layer adds promises on-top of the
 
 Credit cards can be used to access buildings.
 
-# 21. 
+# 21. Software Promises
+
+Churn is painful in software development. Things change without warning and things no longer compile or work together. I would like to see a more mature strategy to breaking changes and how they ripple through a software ecosystem. Software change is not cheap. Python 3 is some thing I'd like to avoid going forward. I want to depend on some thing that shouldn't break, that means depending on an abstraction or interface. I call this an API promise. The API I depend on should not break between major releases, it's stable and it's locked into the software.
+
+
 
 
 
