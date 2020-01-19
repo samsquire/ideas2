@@ -93,7 +93,7 @@ Churn is painful in software development. Things change without warning and thin
 
 # 22. Install across
 
-Modern systems such as Elasticsearch, Consul require clusters of computers to install against. What we need is installers that can be configured to install across multiple machines, not independent machines.
+Modern systems such as Elasticsearch, Consul require clusters of computers to install against. What we need is installers that can be configured to install across multiple machines, not just independent machines.
 
 # 23. 
 
