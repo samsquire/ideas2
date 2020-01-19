@@ -95,8 +95,15 @@ Churn is painful in software development. Things change without warning and thin
 
 Modern systems such as Elasticsearch, Consul require clusters of computers to install against. What we need is installers that can be configured to install across multiple machines, not just independent machines.
 
-# 23. 
+# 23. Output text as a changeable interface
 
+Have you ever been looking at the output of a command and wanted to change the output of the command directly? Perhaps it's Kubernetes output.
+
+You click on a piece of output text, it pops up in an editor and you change it. You then are told what you need to run to make the changed output a reality.
+
+# 24. Programming Language designed for refactoring - Refactoring equivalencies
+
+Could a programming language be designed for refactoring simplicity? Java does really well as being a language that supports automated refactorings. I want software breakage caused by refactoring to end. Perhaps the author of a refactoring of a broken signature change could provide an equivalent piece of code that acts as a bridge between the old way of doing a thing and the new way of doing the thing. This way people who upgrade can acquire the code that does the bridge and there is no software breakage.
 
 
 
