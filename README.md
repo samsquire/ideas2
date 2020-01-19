@@ -91,7 +91,11 @@ Credit cards can be used to access buildings.
 
 Churn is painful in software development. Things change without warning and things no longer compile or work together. I would like to see a more mature strategy to breaking changes and how they ripple through a software ecosystem. Software change is not cheap. Python 2 to Python 3 is some thing I'd like to avoid going forward. I want to depend on some thing that shouldn't break, that means depending on an abstraction or an interface but is depending on some thing much larger than a single interface in code. I call this depending on a promise. The interface I depend on should not break between major releases, it's stable and it's locked into the software. Javascript in the browser keeps working but my NodeJS, Ruby and Java projects break all the time due to refactoring being done on underlying dependencies. Developers need accurate statistics of code coverage of who is using what. They also need to know if they've broken some thing downstream with their changes.
 
-# 22. 
+# 22. Install across
+
+Modern systems such as Elasticsearch, Consul require clusters of computers to install against. What we need is installers that can be configured to install across multiple machines, not independent machines.
+
+# 23. 
 
 
 
