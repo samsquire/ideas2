@@ -124,7 +124,7 @@ Existing:
  
 # 28. Example driven documentation
 
-All libraries and systems should be documented by examples. Examples that include import statements, filenames and any other basic precursor knowledge that should be known to run the example to be included so that anybody can run with it. Flask is so successful because it has a minimalist example on its home page.
+All libraries and systems should be documented by examples. Examples that include import statements, filenames and any other basic precursor knowledge that should be known to run the example to be included so that anybody can run with it. I would argue that Flask and other simple libraries are so successful because they have a simple easy-to-run minimalist example on their home pages.
 
 # 29. 
 
