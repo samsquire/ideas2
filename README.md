@@ -142,7 +142,7 @@ I'd like my desktop environment to be social and I can search for ways of doing 
 
 # 32. Community Idea: Does Right & Does Wrong
 
-Ever thought a piece of software did something right? There's no central collection of patterns that are software done right. I would like to see a website which collects each piece of software's installation process and says what is right about it.
+Ever thought a piece of software did something right? There's no central collection of patterns that are software done right. I would like to see a website which collects each piece of software's installation process and says what is right about it. Installation process is just an example. There's other things that we can discuss who does something right or wrong.
 
 # 33. 
 
