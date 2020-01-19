@@ -134,7 +134,7 @@ Have a lot of data to transfer to a mobile client to create a useful interface? 
 
 # 30. Plain text CRUD
 
-I want an editor that looks like the Github issue editor but renders to plain text, in the format of this idea document. So I can click New Idea and have it render to this plain text markdown format.
+I want an editor that looks like the Github issue editor but renders to plain text - in the format of this idea document and accepts this document as input. So I can click New Idea and have it render to this plain text markdown format.
 
 # 31. Social desktop
 
