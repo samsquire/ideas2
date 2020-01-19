@@ -122,10 +122,14 @@ Existing:
  
  In a system with multiple microservices and use of shared libraries, it is difficult to carry out refactorings across codebases. The call site refactorer is a system that allows refactoring across code bases. It accomplishes this by identifying all uses of a particular signature and then showing every call site in a list. For this to work, automated refactorings must occur against the call site signature. Automated refactorings such as extract variable should work on every call site simultaneously, a bit like multiple cursor support in text editors.
  
-# 28. Example driven documentation
+# 28. Realistic Runnable Example Driven Documentation (RREDD)
 
 All libraries and systems should be documented by examples. Examples that include import statements, filenames and any other basic precursor knowledge that should be known to run the example to be included so that anybody can run with it. I would argue that Flask and other simple libraries are so successful because they have a simple easy-to-run minimalist example on their home pages.
 
-# 29. 
+# 29. Mobile Applications download SQLite databases
+
+Have a lot of data to transfer to a mobile client to create a useful interface? Just send an sqlite database over the wire to seed the client. Then stream updates over HTTP.
+
+# 30. 
 
  
