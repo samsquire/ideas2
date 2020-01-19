@@ -111,13 +111,17 @@ Deeply nested YAML is hard to edit because you do not know what context you're i
 
 # 26. Web Form field backup
 
-Every thing typed into a web browser should be saved in a document that is indexed by website. This way we can have an archive of our contributions to any website. With browser synchronization, no data should slip through the cracks.
+Every thing typed into a web browser should be saved in a new document that is indexed by website. This way we can have an archive of our contributions to any website. With browser synchronization, no data should slip through the cracks.
 
 Existing:
 
- * Lazarus Form Recovery
+ * Lazarus Form Recovery (defunct)
  * Textarea cache
  
- # 27. 
+ # 27. Call site refactorer
+ 
+ In a system with multiple microservices and use of shared libraries, it is difficult to carry out refactorings across codebases. The call site refactorer is a system that allows refactoring across code bases. It accomplishes this by identifying all uses of a particular signature and then showing every call site in a list. For this to work, automated refactorings must occur against the call site signature. Automated refactorings such as extract variable should work on every call site simultaneously, a bit like multiple cursor support in text editors.
+ 
+ # 28. 
 
  
