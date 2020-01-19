@@ -101,13 +101,15 @@ Have you ever been looking at the output of a command and wanted to change the o
 
 You click on a piece of output text, it pops up in an editor and you change it. You then are told what you need to run to make the changed output a reality.
 
-# 24. Programming Language designed for refactoring - Refactoring equivalencies
+# 24. Programming Language designed for machine refactoring - Refactoring equivalencies
 
 Could a programming language be designed for refactoring simplicity? Java does really well as being a language that supports automated refactorings. I want software breakage caused by refactoring to end. Perhaps the author of a refactoring of a broken signature change could provide an equivalent piece of code that acts as a bridge between the old way of doing a thing and the new way of doing the thing. This way people who upgrade can acquire the code that does the bridge and there is no software breakage.
 
-# 25. 
+# 25. Nested Validating YAML Editor
 
+Deeply nested YAML is hard to edit because you do not know what context you're in. If you indent to the left you make the document invalid. Nested YAML editors stop you from indenting to the left by accident.
 
+# 26. 
 
 
  
