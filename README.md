@@ -105,6 +105,7 @@ You click on a piece of output text, it pops up in an editor and you change it. 
 
 Could a programming language be designed for refactoring simplicity? Java does really well as being a language that supports automated refactorings. I want software breakage caused by refactoring to end. Perhaps the author of a refactoring of a broken signature change could provide an equivalent piece of code that acts as a bridge between the old way of doing a thing and the new way of doing the thing. This way people who upgrade can acquire the code that does the bridge and there is no software breakage.
 
+# 25. 
 
 
 
