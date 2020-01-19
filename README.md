@@ -111,7 +111,7 @@ Deeply nested YAML is hard to edit because you do not know what context you're i
 
 # 26. Web Form field backup
 
-Every thing typed into a web browser should be saved in a new document that is indexed by website. This way we can have an archive of our contributions to any website. With browser synchronization, no data should slip through the cracks.
+Every thing typed into a web browser should be saved in a new document that is indexed by website. This way we can have an archive of our contributions to any website. With browser synchronization, no data should slip through the cracks. We don't have to worry if a site doesn't permit a backup of our data.
 
 Existing:
 
@@ -135,5 +135,7 @@ Have a lot of data to transfer to a mobile client to create a useful interface? 
 I want an editor that looks like the Github issue editor but renders to plain text, in the format of this idea document. So I can click New Idea and have it render to this plain text markdown format.
 
 # 31. 
+
+# 32. 
 
  
