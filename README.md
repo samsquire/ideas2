@@ -140,6 +140,10 @@ I want an editor that looks like the Github issue editor but renders to plain te
 
 I'd like my desktop environment to be social and I can search for ways of doing things, such a search for "track spending" and then I am introduced to someone's technical solution to this problem which is to show forms that collect spend amounts. If I don't like this approach, I can try another one. The line between software installation and use of someone's software is blurred.
 
-# 32. 
+# 32. Community Idea: Does Right & Does Wrong
+
+Ever thought a piece of software did something right? There's no central collection of patterns that are software done right. I would like to see a website which collects each piece of software's installation process and says what is right about it.
+
+# 33. 
 
  
