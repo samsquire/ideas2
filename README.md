@@ -130,6 +130,10 @@ All libraries and systems should be documented by examples. Examples that includ
 
 Have a lot of data to transfer to a mobile client to create a useful interface? Just send an sqlite database over the wire to seed the client. Then stream updates over HTTP.
 
-# 30. 
+# 30. Plain text CRUD
+
+I want an editor that looks like the Github issue editor but renders to plain text, in the format of this idea document. So I can click New Idea and have it render to this plain text markdown format.
+
+# 31. 
 
  
