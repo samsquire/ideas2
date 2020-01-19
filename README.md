@@ -107,7 +107,7 @@ Could a programming language be designed for refactoring simplicity? Java does r
 
 # 25. Nested Validating YAML Editor
 
-Deeply nested YAML is hard to edit because you do not know what context you're in. If you indent to the left you make the document invalid. Nested YAML editors stop you from indenting to the left by accident.
+Deeply nested YAML is hard to edit because you do not know what context you're in. If you're modifying Kuberentes YAML, it's hard to know what is valid where. If you indent a block to the left you make the document invalid. Nested YAML editors stop you from indenting to the left by accident. Validating means that the editor tries to deserialize the YAML into the data structure used by the program and shows you that program's interpretation of the input YAML to tell you it's valid or not.
 
 # 26. 
 
