@@ -148,6 +148,9 @@ Ever thought a piece of software did something right? There's no central collect
 
 Like a chat bot that messages you instead of you messaging it. As part of the Human Query Engine.
 
-# 34. 
+# 34. Keylogger for personal data collection
 
+Run a key logger that logs data entered into every program on a computer to keep a record of personal data.
+
+# 35. 
  
