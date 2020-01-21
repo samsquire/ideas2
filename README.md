@@ -35,7 +35,7 @@ https://lifestyle-subscriptions.com
 
 # 7. Human Query Engine
 
-An filled inbox of questions to answer and questions generated based on my answers to previous questions. Like a chat bot that messages you instead of you messaging it. Uses random lists of words to ask interesting questions such as "Is **thingA** better than **thingB**" or "How much money do you have in your bank account?". The data collected could be used to implement [life engine](https://github.com/samsquire/ideas#5-life-engine).
+A filled inbox of questions to answer and questions generated based on my answers to previous questions. Uses random lists of words to ask interesting questions such as "Is **thingA** better than **thingB**" or "How much money do you have in your bank account?". The data collected could be used to implement [life engine](https://github.com/samsquire/ideas#5-life-engine).
 
 # 8. Active Slides
 
@@ -142,8 +142,12 @@ I'd like my desktop environment to be social and I can search for ways of doing 
 
 # 32. Community Idea: Does Right & Does Wrong
 
-Ever thought a piece of software did something right? There's no central collection of patterns that are software done right. I would like to see a website which collects each piece of software's installation process and says what is right about it. Installation process is just an example. There's other things that we can discuss who does something right or wrong.
+Ever thought a piece of software did something right? There's no central collection of patterns that are of software done right. I would like to see a website which collects each piece of software's installation process and says what is right about it. Installation process is just an example. There's other things that we can discuss who does something right or wrong.
 
-# 33. 
+# 33. Chat bots that ask you random questions
+
+Like a chat bot that messages you instead of you messaging it. As part of the Human Query Engine.
+
+# 34. 
 
  
