@@ -162,7 +162,7 @@ A wiki that is pointed at a kubernetes or docker swarm environment with pages fo
 
 # 37. Secrets-login and secrets-logout
 
-Store your secrets in /home/${USER}/secrets and have a shell script called secrets-logout and GPG that encrypts your secrets when you go home.
+Store your file based secrets in /home/${USER}/secrets and have a shell script called secrets-logout that uses tar and GPG to encrypt your file based secrets when you go home. In the morning, log in with secrets-login.
 
 # 38. Randomly generate your usernames for security
 
