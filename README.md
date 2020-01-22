@@ -164,5 +164,8 @@ A wiki that is pointed at a kubernetes or docker swarm environment with pages fo
 
 Store your secrets in /home/${USER}/secrets and have a shell script called secrets-logout and GPG that encrypts your secrets when you go home.
 
-# 38. 
+# 38. Randomly generate your usernames for security
+
+Do not use your name or your personal email address for logging into websites. Instead, generate a new email alias and use that to login.
  
+# 39. 
