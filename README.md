@@ -144,7 +144,7 @@ I'd like my desktop environment to be social and I can search for ways of doing 
 
 Ever thought a piece of software did something right? There's no central collection of patterns that are of software done right. I would like to see a website which collects each piece of software's installation process and says what is right about it. Installation process is just an example. There's other things that we can discuss who does something right or wrong.
 
-# 33. Chat bots that ask you random questions
+# 33. Chat bots that ask you randomly generated questions
 
 Like a chat bot that messages you instead of you messaging it. As part of the Human Query Engine.
 
@@ -154,7 +154,7 @@ Run a key logger that logs data entered into every program on a computer to keep
 
 # 35. Docker chat room
 
-Spin up Docker containers from a chat room.
+Spin up Docker containers from a chat room. Edit docker files together in real time.
 
 # 36. Wiki based software deployment
 
@@ -162,7 +162,7 @@ A wiki that is pointed at a kubernetes or docker swarm environment with pages fo
 
 # 37. Secrets-login and secrets-logout
 
-Store your file based secrets in /home/${USER}/secrets and have a shell script called secrets-logout that uses tar and GPG to encrypt your file based secrets when you go home. In the morning, log in with secrets-login.
+Store your unavoidable file based secrets in /home/${USER}/secrets and have a shell script called secrets-logout that uses tar and GPG to encrypt your file based secrets when you go home. In the morning, log in with secrets-login to reverse the process.
 
 # 38. Randomly generate your usernames for security
 
