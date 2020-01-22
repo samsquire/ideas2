@@ -168,8 +168,6 @@ Store your unavoidable file based secrets in /home/${USER}/secrets and have a sh
 
 Do not use your name or your personal email address for logging into websites.  Your username is 50% of what's needed to get into your account. Instead, generate a new email alias and use that to login.
  
-# 39. Problem wiki
-
-Problems could be aggregated into a wiki with solutions linked to them. You have a problem? Search the problem wiki and find useable software straight from the wiki.
+# 39. 
 
 # 40. 
