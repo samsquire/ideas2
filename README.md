@@ -160,5 +160,9 @@ Spin up Docker containers from a chat room.
 
 A wiki that is pointed at a kubernetes or docker swarm environment with pages for various kinds of software. I can begin using kinds of software that I can find via the wiki without an active deployment step. The distributed computing page provides implementations and various interfaces for distributed computing that I can use.
 
-# 37. 
+# 37. Secrets-login and secrets-logout
+
+Store your secrets in /home/${USER}/secrets and have a shell script called secrets-logout and GPG that encrypts your secrets when you go home.
+
+# 38. 
  
