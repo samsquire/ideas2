@@ -166,6 +166,6 @@ Store your secrets in /home/${USER}/secrets and have a shell script called secre
 
 # 38. Randomly generate your usernames for security
 
-Do not use your name or your personal email address for logging into websites. Instead, generate a new email alias and use that to login.
+Do not use your name or your personal email address for logging into websites.  Your username is 50% of what's needed to get into your account. Instead, generate a new email alias and use that to login.
  
 # 39. 
