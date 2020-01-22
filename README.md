@@ -166,7 +166,7 @@ Store your unavoidable file based secrets in /home/${USER}/secrets and have a sh
 
 # 38. Randomly generate your usernames for security
 
-Do not use your name or your personal email address for logging into websites.  Your username is 50% of what's needed to get into your account. Instead, generate a new email alias and use that to login.
+Do not use your name or your personal email address for logging into websites.  Your username is 50% of what's needed to get into your account. Instead, generate a new email alias and use that to login, such as name+1tvsdradv4@gmail.com.
  
 # 39. 
 
