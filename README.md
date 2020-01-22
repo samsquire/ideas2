@@ -156,7 +156,7 @@ Run a key logger that logs data entered into every program on a computer to keep
 
 Spin up Docker containers from a chat room. Edit docker files together in real time.
 
-# 36. Wiki based software deployment
+# 36. Wiki Problem System
 
 A wiki that is pointed at a kubernetes or docker swarm environment with pages for various kinds of software. I can begin using kinds of software that I can find via the wiki without an active deployment step. The distributed computing page provides implementations and various interfaces for distributed computing that I can use.
 
