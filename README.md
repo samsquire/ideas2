@@ -168,6 +168,12 @@ Store your unavoidable file based secrets in /home/${USER}/secrets and have a sh
 
 Do not use your name or your personal email address for logging into websites.  Your username is 50% of what's needed to get into your account. Instead, generate a new email alias and use that to login, such as name+1tvsdradv4@example.com.
  
-# 39. 
+# 39. Advertising to Advertisement Account
 
-# 40. 
+I want one-click advertising purchases. If I see a promise in an advert, I should be able to subscribe to the promise with a single click. I should be able to see all my susbcribed advertisements in a single account.
+
+# 40. Ticketless travel
+
+A ticket is for saying where you're trying to go, not that you've paid. We can enable ticketless travel with credit cards and NFC.
+
+# 41. 
