@@ -168,9 +168,9 @@ Store your unavoidable file based secrets in /home/${USER}/secrets and have a sh
 
 Do not use your name or your personal email address for logging into websites.  Your username is 50% of what's needed to get into your account. Instead, generate a new email alias and use that to login, such as name+1tvsdradv4@example.com.
  
-# 39. Advertising to Advertisement Account
+# 39. Instant Ad Purchases
 
-I want one-click advertising purchases. If I see a promise in an advert, I should be able to subscribe to the promise with a single click. I should be able to see all my susbcribed advertisements in a single account.
+Promises in a digital advert can be directly purchased and appear in a special account with one click. If I see a deal for a product at a certain price, I can click purchase on it and instantly purchase the service or product. You could be driving down a motorway and see an advert for a product on a banner and instantly purchase it with a button on your car wheel. What you're purchasing is the promise specified by the advert. It could be a product at a certain price or more likely, a capability.
 
 # 40. Ticketless travel
 
