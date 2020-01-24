@@ -174,9 +174,11 @@ Promises in a digital advert can be directly purchased and appear in a special a
 
 # 40. Ticketless travel
 
-A ticket is for saying where you're trying to go, not that you've paid. Ticketless travel is possible through credit cards and NFC.
+A ticket is for saying where you're trying to go, not that you've paid. Ticketless travel is possible through credit cards loaded with digital tickets and NFC.
 
-# 41. 
+# 41. Group action
+
+An online account that lets you act as a group with other people. You can all register with the same financial decisions as another person and buy the same things.
 
 # 42. Depend on language feature
 
