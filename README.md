@@ -184,8 +184,5 @@ All my accounts should be viewable and manageable from one interface.
 
 A programming language whereby you import language features to depend upon. Python has a PEP process and Java has JSRs. You directly depend on named groups of functionality and this determines your language experience.
 
-# 43. Telemetry backed language
+# 43. 
 
-A programming language that is in profiler mode by default.
-
-# 44.  
