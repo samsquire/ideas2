@@ -180,4 +180,8 @@ A ticket is for saying where you're trying to go, not that you've paid. Ticketle
 
 All my accounts should be viewable and manageable from one interface.
 
-# 42. 
+# 42. Depend on language feature
+
+A programming language whereby you import language features to depend upon. Python has a PEP process and Java has JSRs. You directly depend on named groups of functionality and this determines your language experience.
+
+# 43. 
