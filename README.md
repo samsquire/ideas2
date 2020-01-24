@@ -176,9 +176,7 @@ Promises in a digital advert can be directly purchased and appear in a special a
 
 A ticket is for saying where you're trying to go, not that you've paid. Ticketless travel is possible through credit cards and NFC.
 
-# 41. Account viewer
-
-All my accounts should be viewable and manageable from one interface.
+# 41. 
 
 # 42. Depend on language feature
 
