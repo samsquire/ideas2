@@ -152,9 +152,9 @@ Like a chat bot that messages you instead of you messaging it. As part of the Hu
 
 Run a key logger that logs data entered into every program on a computer to keep a record of personal data.
 
-# 35. Docker chat room
+# 35. Chat development environment
 
-Spin up Docker containers from a chat room. Edit docker files together in real time.
+Spin up Docker containers from a chat room. Write SQL. Write JSX React components in chat. Write reduct actions in the chat room. Everyone runs the same code and anyone can make a change anywhere. Without touching a text editor.
 
 # 36. Wiki Problem System
 
@@ -176,13 +176,15 @@ Promises in a digital advert can be directly purchased and appear in a special a
 
 A ticket is for saying where you're trying to go, not that you've paid. Ticketless travel is possible through credit cards loaded with digital tickets and NFC.
 
-# 41. Group action
+# 41. Conveyor belt GUI
 
-An online account that lets you act as a group with other people. You can all register with the same financial decisions as another person and buy the same things.
+Imagine if a web request response had to be constructed by a human being. The incoming request sits on a queue. The UI has conveyor belts that take relevant information to the human operator. The human operator interacts with these request objects and constructs a response object and puts it in the response conveyor belt hole.
 
 # 42. Depend on language feature
 
 A programming language whereby you import language features to depend upon. Python has a PEP process and Java has JSRs. You directly depend on named groups of functionality and this determines your language experience.
 
 # 43. 
+
+
 
