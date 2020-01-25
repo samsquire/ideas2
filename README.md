@@ -184,7 +184,7 @@ Imagine if a web request response had to be constructed by a human being. The in
 
 A programming language whereby you import language features to depend upon. Python has a PEP process and Java has JSRs. You directly depend on named groups of functionality and this determines your language experience. Perhaps the fist line of the file says what language features to enable, such as "feature1,feature2"
 
-# 43. 
+# 43. World splitting app
 
-
+Territories can be occupied by people who believe in the same things. If enough people used an app and voted for what they wanted on the app and agreed to move towards where other people believe the same things, people could begin to get what they want. This idea is called world splitting because you divide the world in half when you disagree with a policy.
 
