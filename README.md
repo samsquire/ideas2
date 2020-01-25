@@ -182,7 +182,7 @@ Imagine if a web request response had to be constructed by a human being. The in
 
 # 42. Depend on language feature
 
-A programming language whereby you import language features to depend upon. Python has a PEP process and Java has JSRs. You directly depend on named groups of functionality and this determines your language experience.
+A programming language whereby you import language features to depend upon. Python has a PEP process and Java has JSRs. You directly depend on named groups of functionality and this determines your language experience. Perhaps the fist line of the file says what language features to enable, such as "feature1,feature2"
 
 # 43. 
 
