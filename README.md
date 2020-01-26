@@ -188,7 +188,7 @@ A programming language whereby you import language features to depend upon. Pyth
 
 Territories can be occupied by people who believe in the same things. If enough people used an app and voted for what they wanted on the app and agreed to move towards where other people believe the same things, people could begin to get what they want. This idea is called world splitting because you divide the world in half when you agree with a policy.
 
-# 44. Object Editor
+# 44. General Thing Object Editor
 
 A general purpose CRUD editor with the flexibility and power of a file explorer.
 
@@ -196,13 +196,13 @@ A general purpose CRUD editor with the flexibility and power of a file explorer.
 
 Can the state of an organisation be ran as a giant JSON structure?
 
-# 46. Cloud runtime
+# 46. Migrationless CMS
 
-A web framework whereby everybody is working in the same codebase. Improvements one person makes, improves things for other developers.  Can upload data structures that define their CRUD applications.
+Most headless CMSes such as Strapi require expensive migrations to keep up-to-date. I'd like a CMS that promises to be compatible from early versions with minimal impact.
 
 # 47. Single file visualized as a directory
 
-Take a single file with special comments to delineate directories and render as a folder with multiple files.
+Take a single file with special comments to delineate directories and render in an editor as a folder with multiple files.
 
 # 48. Continuous deployment integrated into the desktop
 
