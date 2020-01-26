@@ -198,7 +198,7 @@ Can the state of an organisation be ran as a giant JSON structure?
 
 # 46. Cloud runtime
 
-A web framework whereby everybody is working in the same codebase and they upload data structures that define their CRUD applications.
+A web framework whereby everybody is working in the same codebase. Improvements one person makes, improves things for other developers.  Can upload data structures that define their CRUD applications.
 
 # 47. Single file visualized as a directory
 
@@ -207,3 +207,5 @@ Take a single file with special comments to delineate directories and render as 
 # 48. Continuous deployment integrated into the desktop
 
 Titlebar of running applications reflects state of the build of a compiled application that is being compiled.
+
+# 49. 
