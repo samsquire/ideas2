@@ -196,9 +196,9 @@ A general purpose CRUD editor with the flexibility and power of a file explorer.
 
 Can the state of an organisation be ran as a giant JSON structure?
 
-# 46. Single codebase runtime
+# 46. Cloud runtime
 
-A web framework whereby everyone shares the same codebase.
+A web framework whereby everybody is working in the same codebase and they upload data structures that define their CRUD applications.
 
 # 47. Single file visualized as a directory
 
