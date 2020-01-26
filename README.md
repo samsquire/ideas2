@@ -208,4 +208,8 @@ Take a single file with special comments to delineate directories and render in 
 
 Titlebar of running applications reflects state of the build of a compiled application that is being compiled.
 
-# 49. 
+# 49. Shop Cartridges
+
+Shop shelves could be loaded in a lorry and loaded into a building like a cartridge.
+
+# 50. 
