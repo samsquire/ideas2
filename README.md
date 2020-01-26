@@ -214,7 +214,7 @@ When I open a number of programs, I would like this list of programs to be persi
 
 # 50. Open Telemetry Advertisements
 
-Collect user telemetry and analyse user behaviour to suggest alternative pieces of open source software that either makes the human behaviour go away.
+Collect user telemetry and analyse user behaviour to suggest alternative pieces of open source software.
 
 # 51. 
 
