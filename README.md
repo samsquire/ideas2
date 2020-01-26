@@ -224,6 +224,10 @@ The ability to schedule disk space to various purposes and to schedule files to 
 
 When an application wants to show a tip, it should be crowdsourced.
 
-# 52. 
+# 52. Digital open source organisation
+
+Open source community could come up with an organisation that is digital and runs by code.
+
+# 53. 
 
 
