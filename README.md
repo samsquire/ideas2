@@ -23,7 +23,7 @@ Existing:
 * BPMN Business Processs Modelling Notation
 * JBPMN
 
-# 5. Open Demand Mapping
+# 5. Open Demand Mapping and Want marketplaces
 
 People can insert demands for products and services into a demand marketplace within a geographical location. I want a dentist within 5 minutes walk of my home. I want a supermarket within 5 minutes walk of my home. In aggregate, people create demands on their local areas.
 
@@ -216,8 +216,14 @@ Existing:
 
 * Tmuxinator
 
-# 50. 
+# 50. Empty space scheduler
 
-# 51. 
+The ability to schedule disk space to various purposes and to schedule files to different regions of empty space. For example, I have three hard drives I should be able to schedule disk for my virtual machines without having to resize virtual disks.
+
+# 51. Tips should be crowdsourced
+
+When an application wants to show a tip, it should be crowdsourced.
+
+# 52. 
 
 
