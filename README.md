@@ -198,7 +198,7 @@ Can the state of an organisation be ran as a giant JSON structure?
 
 # 46. Migrationless CMS
 
-Most headless CMSes such as Strapi require expensive migrations to keep up-to-date. I'd like a CMS that promises to be compatible from early versions with minimal impact.
+Headless CMSes such as Strapi require expensive migrations to keep up-to-date. I'd like a CMS that promises to be compatible from early versions with minimal impact.
 
 # 47. Single file visualized as a directory
 
