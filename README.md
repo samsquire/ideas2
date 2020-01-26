@@ -218,7 +218,7 @@ Existing:
 
 # 50. Empty space scheduler
 
-The ability to schedule disk space to various purposes and to schedule files to different regions of empty space. For example, I have three hard drives I should be able to schedule disk for my virtual machines without having to resize virtual disks.
+The ability to schedule disk space to various purposes and to schedule files to different regions of empty space. I have three hard drives I should be able to schedule disk for my virtual machines without having to resize virtual disks.
 
 # 51. Tips should be crowdsourced
 
@@ -226,7 +226,7 @@ When an application wants to show a tip, it should be crowdsourced.
 
 # 52. Digital open source organisation
 
-Open source community could come up with an organisation that is digital and runs by code.
+Open source community could come up with an organisation that is digital and runs every thing via code.
 
 # 53. 
 
