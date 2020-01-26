@@ -210,7 +210,7 @@ Titlebar of running applications reflects state of the build of a compiled appli
 
 # 49. Stateful workstation
 
-When I open a number of programs, I would like this list of programs to be persisted so that I can shut down the computer and return to them again. I'd like the same for the shell.
+When I open a number of programs, I would like this list of programs to be persisted so that I can shut down the computer and return to them again. I'd like the same for the terminal too.
 
 Existing:
 
