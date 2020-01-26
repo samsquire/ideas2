@@ -208,12 +208,14 @@ Take a single file with special comments to delineate directories and render in 
 
 Titlebar of running applications reflects state of the build of a compiled application that is being compiled.
 
-# 49. Shop Cartridges
+# 49. Stateful sessions
 
-Shop shelves could be loaded in a lorry and loaded into a building like a cartridge.
+When I open a number of programs, I would like this list of programs to be persisted so that I can shut down the computer and return to them again. I'd like the same for the shell.
 
-# 50. Open source advertising
+# 50. Open Telemetry Advertisements
 
 Collect user telemetry and analyse user behaviour to suggest alternative pieces of open source software that either makes the human behaviour go away.
+
+# 51. 
 
 
