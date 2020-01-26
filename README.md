@@ -186,10 +186,14 @@ A programming language whereby you import language features to depend upon. Pyth
 
 # 43. World splitting app
 
-Territories can be occupied by people who believe in the same things. If enough people used an app and voted for what they wanted on the app and agreed to move towards where other people believe the same things, people could begin to get what they want. This idea is called world splitting because you divide the world in half when you disagree with a policy.
+Territories can be occupied by people who believe in the same things. If enough people used an app and voted for what they wanted on the app and agreed to move towards where other people believe the same things, people could begin to get what they want. This idea is called world splitting because you divide the world in half when you agree with a policy.
 
 # 44. Object Editor
 
 A general purpose CRUD editor with the flexibility and power of a file explorer.
 
-# 45. 
+# 45. One giant JSON structure
+
+Can the state of an organisation be ran as a giant JSON structure?
+
+# 46. 
