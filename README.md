@@ -212,4 +212,8 @@ Titlebar of running applications reflects state of the build of a compiled appli
 
 Shop shelves could be loaded in a lorry and loaded into a building like a cartridge.
 
-# 50. 
+# 50. Open source advertising
+
+Collect user telemetry and analyse user behaviour to suggest alternative pieces of open source software that either makes the human behaviour go away.
+
+
