@@ -228,6 +228,12 @@ When an application wants to show a tip, it should be crowdsourced.
 
 Open source community could come up with an organisation that is digital and runs every thing via code.
 
-# 53. 
+# 53. Entrypoint tables
+
+In large enough pieces of software it's not obvious where to find any thing. There should be tables of entry points on where to find important parts of code.
+
+# 54. 
+
+
 
 
