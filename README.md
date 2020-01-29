@@ -234,10 +234,6 @@ Spawn a graph of Kafka codebases linked by input/output topics. Scale up any par
 
 # 54. An IDE that guarantees builbability
 
-An IDE that guarantees if you can open the project, you can build it.
+An IDE that guarantees if you can open the project, you can build it reliably the way others build it. Dependencies are fetched.
 
 # 55. 
-
-
-
-
