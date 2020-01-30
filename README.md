@@ -248,8 +248,12 @@ Every form of information collected by a corporation to be go into GUI server wh
 
 An editor for streams, such as Bash pipelines or Kafka streams. Would allow you to replay data between points in the pipeline and test each stage independently.
 
-# 58. Desktop Advertisement
+# 58. Desktop Advertising
 
-What can your computer do for you? My operating system and IDE advertises features and things it can do based on what is installed.
+What can your computer do for you? The operating system and IDE advertises features and things it can do based on what is installed.
 
-# 59. 
+# 59. Personal Message bus
+
+My computer and software I interact with raises events all the time. I'd like to be able to hook into events that are raised and add behaviour to them.
+
+# 60. 
