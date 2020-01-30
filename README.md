@@ -79,7 +79,7 @@ An app that downloads data from various sources online to fill 1 gigabyte of dat
 
 # 18. CMS for building webapps
 
-A CMS for webapps: create serverside and clientside routes, register handlers from a GUI.
+A CMS for webapps: create serverside and clientside routes, register handlers from a GUI, create facts about the GUI.
 
 # 19. Stack-upon
 
@@ -250,6 +250,6 @@ An editor for streams, such as Bash pipelines or Kafka streams. Would allow you 
 
 # 58. Desktop Advertisement
 
-What can your computer do for you? Wouldn't it be nice if my operating system and IDE advertised features to me?
+What can your computer do for you? My operating system and IDE advertises features and things it can do based on what is installed.
 
 # 59. 
