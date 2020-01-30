@@ -242,14 +242,14 @@ Like CURL but for querying APIs and handling pagination for you.
 
 # 56. Deep GUI
 
-Every form of information collected by a corporation to be go into one central system.
+Every form of information collected by a corporation to be go into GUI server whereby data collection can be monitored and centrally tested.
 
 # 57. Stream editor
 
 An editor for streams, such as Bash pipelines or Kafka streams. Would allow you to replay data between points in the pipeline and test each stage independently.
 
-# 58. Code advertisement
+# 58. Desktop Advertisement
 
-Wouldn't it be nice if my operating system and IDE advertised libraries to me?
+What can your computer do for you? Wouldn't it be nice if my operating system and IDE advertised features to me?
 
 # 59. 
