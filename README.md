@@ -240,4 +240,8 @@ An IDE that guarantees if you can open the project, you can build it reliably th
 
 Like CURL but for querying APIs and handling pagination for you.
 
-# 56. 
+# 56. Deep GUI
+
+Every form of information collected by a corporation to be go into one central system.
+
+# 57. 
