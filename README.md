@@ -228,9 +228,9 @@ When an application wants to show a tip, it should be crowdsourced.
 
 Open source community could come up with an organisation that is digital and runs every thing via code.
 
-# 53. Customer service job apps
+# 53. Open source customer service application
 
-Become customer service via chat apps.
+Integrate with chatops and case management ops to offer jobs to people on mobile phones to do customer support via chat.
 
 # 54. An IDE that guarantees builbability
 
