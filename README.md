@@ -244,4 +244,8 @@ Like CURL but for querying APIs and handling pagination for you.
 
 Every form of information collected by a corporation to be go into one central system.
 
-# 57. 
+# 57. Stream editor
+
+An editor for streams, such as Bash pipelines or Kafka streams.
+
+# 58. 
