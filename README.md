@@ -242,7 +242,7 @@ Like CURL but for querying APIs and handling pagination for you.
 
 # 56. Deep GUI
 
-Every form of information collected by a corporation to be go into GUI server whereby data collection can be monitored and centrally tested.
+Every form of information collected by a corporation to go to a GUI server whereby data forms can be monitored and centrally tested.
 
 # 57. Stream editor
 
