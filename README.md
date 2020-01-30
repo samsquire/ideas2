@@ -228,9 +228,8 @@ When an application wants to show a tip, it should be crowdsourced.
 
 Open source community could come up with an organisation that is digital and runs every thing via code.
 
-# 53. Kubernetes Kafka graph
+# 53. 
 
-Spawn a graph of Kafka codebases linked by input/output topics. Scale up any part of the Kafka pipeline.
 
 # 54. An IDE that guarantees builbability
 
