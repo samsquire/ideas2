@@ -232,8 +232,12 @@ Open source community could come up with an organisation that is digital and run
 
 Integrate with chatops and case management ops to offer jobs to people on mobile phones to do customer support via chat.
 
-# 54. An IDE that guarantees builbability
+# 54. An IDE that guarantees buildability
 
 An IDE that guarantees if you can open the project, you can build it reliably the way others build it. Dependencies are fetched.
 
-# 55. 
+# 55. Generalized API client
+
+Like CURL but for querying APIs and handling pagination for you.
+
+# 56. 
