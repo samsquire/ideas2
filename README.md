@@ -246,6 +246,6 @@ Every form of information collected by a corporation to be go into one central s
 
 # 57. Stream editor
 
-An editor for streams, such as Bash pipelines or Kafka streams.
+An editor for streams, such as Bash pipelines or Kafka streams. Would allow you to replay data between points in the pipeline and test each stage independently.
 
 # 58. 
