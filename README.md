@@ -286,6 +286,6 @@ Ordering food could be a commodity like web server software. We need an open sou
 
 # 67. Communication library for monolith to microservice
 
-When software needs to communicate with a service boundary, it should go through a library. The library is configured to transform requests into either method calls, REST calls or MQ messages.
+When software needs to communicate with a service boundary, it should go through a library. The library is configured to transform requests into either method calls, REST calls or MQ messages based on configuration.
 
-
+# 68. 
