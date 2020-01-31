@@ -268,6 +268,10 @@ Schedule SSH keys and schedule public keys to be in different locations in a net
 
 People should be able to do work via a mobile phone and be paid for it. We need to convert problems to be runnable by mobile phone and a user.
 
+# 63. Vote on the division of work
 
+Some people do more work than others. Perhaps we should decentralize responsibility by voting what constitutes a role and eliminate burnout.
+
+# 64. 
 
 
