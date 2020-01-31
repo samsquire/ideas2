@@ -286,6 +286,6 @@ Ordering food could be a commodity like web server software. We need an open sou
 
 # 67. Communication library for monolith to microservice
 
-Monoliths can be stem cell servers - they can startup and choose what kind of servers to be. When software needs to communicate with a service boundary, it should go through a library. The library is configured to transform requests into either method calls, REST calls or MQ messages based on configuration.
+Monoliths can be stem cell servers - they can startup and choose what kind of servers to be. When software needs to communicate with a service boundary, it should go through a library. The library is configured to transform requests into either method calls, REST calls or MQ messages based on configuration to talk to other deployed instances of the service.
 
 # 68. 
