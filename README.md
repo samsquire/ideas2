@@ -176,7 +176,7 @@ Promises in a digital advert can be directly purchased and appear in a special a
 
 A ticket is for saying where you're trying to go, not that you've paid. Ticketless travel is possible through credit cards loaded with digital tickets and NFC.
 
-# 41. Conveyor belt GUI
+# 41. Conveyor belt GUI - Development with a chat bot
 
 Imagine if a web request response had to be constructed by a human being. The incoming request sits on a queue. The UI has conveyor belts that take relevant information to the human operator. The human operator interacts with these request objects and constructs a response object and puts it in the response conveyor belt hole.
 
@@ -261,3 +261,9 @@ My computer and software I interact with raises events all the time. I'd like to
 An interface to create asynchronous tasks definitions. I'm thinking of complicated workflows in the backends of controllers whereby multiple services need to be contacted and queried.
 
 # 61 
+
+
+
+
+
+
