@@ -264,7 +264,9 @@ An interface to create asynchronous tasks definitions. I'm thinking of complicat
 
 Schedule SSH keys and schedule public keys to be in different locations in a network. Schedule files to be present on certain servers.
 
+# 62. Work by mobile phone
 
+People should be able to do work via a mobile phone and be paid for it. We need to convert problems to be runnable by mobile phone and a user.
 
 
 
