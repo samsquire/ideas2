@@ -276,8 +276,10 @@ People with the same title do different things. We could decentralize by voting 
 
 Imagine a database of personal information, facts about yourself and various collected resources. I want to crowd source queries to this database to create interesting GUIs and for the data in the database not to require manual migrations. Development should always be carried out with an example dataset, so developers do not get used to started from empty all the time.
 
-# 65. 
+# 65. Automate job descriptions
 
+We can automate job descriptions by building GUIs.
 
+# 66.
 
 
