@@ -218,7 +218,7 @@ Existing:
 
 # 50. Empty space scheduler
 
-The ability to schedule disk space to various purposes and to schedule files to different regions of empty space. I have three hard drives I should be able to schedule disk for my virtual machines without having to resize virtual disks.
+The ability to schedule disk space to various purposes and to schedule files to different regions of empty space. I have three hard drives My virtual disks in my VMs should also resize (to grow) automatically.
 
 # 51. Tips should be crowdsourced
 
@@ -266,7 +266,7 @@ Schedule SSH keys and schedule public keys to be in different locations in a net
 
 # 62. Work by mobile phone
 
-People should be able to do work via a mobile phone and be paid for it. We need to convert problems to be runnable by mobile phone and a user.
+People should be able to do work via a mobile phone and be paid for it. We need to convert problems to be runnable by mobile phone.
 
 # 63. Title Finder - Vote on the division of work
 
