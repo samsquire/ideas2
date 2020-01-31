@@ -55,7 +55,7 @@ Represent the commands that generate GUIs as a monotonically increasing set of s
 
 # 12. Recommended music for webpage
 
-Wouldn't it be nice if you could recommend a song to play with a web page as background music.
+Wouldn't it be nice if you could recommend a song to play with a web page as background music. Perhaps a meta tag with a URL to a YouTube video.
 
 # 13. GUIs are queries
 
