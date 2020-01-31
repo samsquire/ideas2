@@ -25,7 +25,7 @@ Existing:
 
 # 5. Open Demand Mapping and Want marketplaces
 
-People can insert demands for products and services into a demand marketplace within a geographical location. I want a dentist within 5 minutes walk of my home. I want a supermarket within 5 minutes walk of my home. In aggregate, people create demands on their local areas.
+People can insert demands for products and services into a demand marketplace within a geographical location. I want a dentist within 5 minutes walk of my home. I want a supermarket within 5 minutes walk of my home. In aggregate, people create demands on their local areas. There should be an app that exposes a market place of wants.
 
 # 6. Lifestyle subscriptions
 
