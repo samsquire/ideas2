@@ -272,6 +272,12 @@ People should be able to do work via a mobile phone and be paid for it. We need 
 
 People with the same title do different things. We could decentralize by voting what tasks constitutes a newly named role and eliminate burnout by creating accurate titles and begin responsibilities off the same people who do most of the work in society.
 
-# 64. 
+# 64. Crowd database that doesn't break between releases
+
+Imagine a database of personal information, facts about yourself and various collected resources. I want to crowd source queries to this database to create interesting GUIs and for the data in the database not to require manual migrations. Development should always be carried out with an example dataset, so developers do not get used to started from empty all the time.
+
+# 65. 
+
+
 
 
