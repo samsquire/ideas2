@@ -49,6 +49,8 @@ Human suffering could be eliminated if everyone had a virtual placement assigned
 
 Depending on a library could also involve pinging the libraries' software infrastructure so that whenever the library is changed, the dependents are also rebuilt. This would catch code that causes downstream changes to APIs. API changes are expensive.
 
+See [library-mesh repo](https://github.com/samsquire/library-mesh)
+
 # 11. Additive GUIs
 
 Represent the commands that generate GUIs as a monotonically increasing set of statements about the GUI and declaratively render a GUI based on propositions of widgets in relationship to one another. Has the property of being able to extend existing GUIs by simply making more statements. See http://github.com/samsquire/additive-guis Imagine if a set of tweets could render a GUI.
