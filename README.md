@@ -278,7 +278,7 @@ Imagine a database of personal information, facts about yourself and various col
 
 # 65. Automate job descriptions
 
-We can automate job descriptions by building GUIs.
+We can automate job descriptions by building GUIs and workflow rule engines.
 
 # 66.
 
