@@ -256,4 +256,8 @@ What can your computer do for you? The operating system and IDE advertises featu
 
 My computer and software I interact with raises events all the time. I'd like to be able to hook into events that are raised and add behaviour to them.
 
-# 60. 
+# 60. Asynchrony editor
+
+An interface to create asynchronous tasks definitions. I'm thinking of complicated workflows in the backends of controllers whereby multiple services need to be contacted and queried.
+
+# 61 
