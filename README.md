@@ -268,9 +268,9 @@ Schedule SSH keys and schedule public keys to be in different locations in a net
 
 People should be able to do work via a mobile phone and be paid for it. We need to convert problems to be runnable by mobile phone and a user.
 
-# 63. Vote on the division of work
+# 63. Title Finder - Vote on the division of work
 
-Some people do more work than others. Perhaps we should decentralize responsibility by voting what constitutes a role and eliminate burnout.
+People with the same title do different things. We could decentralize by voting what tasks constitutes a role and eliminate burnout by shifting responsibilities off the same people who do most of the work.
 
 # 64. 
 
