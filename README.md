@@ -308,7 +308,7 @@ My computer has lots of spare resources. I would like work to be allocated to my
 
 # 72. Task Store
 
-A shop of things that people can do with their computers. Not necessarily apps but the interoperation of multiple services installed to create some behaviour.
+A shop of things that people can do with their computers. Not necessarily apps but the interoperation of multiple services installed to create some behaviour. For example, you could be guided through the process to create a website and then the following things happen:
 
 ```
     "Now you have a website, the following tasks are open to you"
