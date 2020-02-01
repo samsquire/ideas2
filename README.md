@@ -302,4 +302,6 @@ Active network design software. Build an AWS network with a network designer GUI
 
 I want to allocate computing resources to different purposes. I'd like a GUI like spreadsheet that lets me produce workloads for my computer.
 
-# 71. 
+# 71. Community Idea: Workloads
+
+My computer has lots of spare resources. I would like work to be allocated to my computer.
