@@ -292,6 +292,10 @@ Monoliths can be stem cell servers - they can startup and choose what kind of se
 
 # 68. Data faucets
 
-A standardised way of getting data from a stream.
+A standardised way of getting data from a Kafka stream.
 
-# 69. 
+# 69. IT design software
+
+Active network design software. Build an AWS network with a GUI and render to Terraform.
+
+# 70. 
