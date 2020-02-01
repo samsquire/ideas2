@@ -296,6 +296,10 @@ A standardised way of getting data from a Kafka stream.
 
 # 69. IT design software
 
-Active network design software. Build an AWS network with a GUI and render to Terraform.
+Active network design software. Build an AWS network with a network designer GUI and render to Terraform.
 
-# 70. 
+# 70. Work spreadsheet
+
+I want to allocate computing resources to different purposes. I'd like a GUI like spreadsheet that lets me produce workloads for my computer.
+
+# 71. 
