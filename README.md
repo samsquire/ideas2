@@ -290,9 +290,9 @@ Ordering food could be a commodity like web server software. We need an open sou
 
 Monoliths can be stem cell servers - they can startup and choose what kind of servers to be. When software needs to communicate with a service boundary, it should go through a library. The library is configured to transform requests into either method calls, REST calls or MQ messages based on configuration to talk to other deployed instances of the service.
 
-# 68. System GUIs web based
+# 68. Web based system GUIs
 
-Use a web interface to configure a computer system.
+Use a web interface to render preference screens.
 
 # 69. IT design software
 
