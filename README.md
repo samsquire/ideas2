@@ -140,7 +140,7 @@ I want an editor that looks like the Github issue editor but renders to plain te
 
 # 31. Social desktop
 
-I'd like my desktop environment to be social and I can search for ways of doing things, such a search for "track spending" and then I am introduced to someone's technical solution to this problem which is to show forms that collect spend amounts. If I don't like this approach, I can try another one. The line between software installation and use of someone's software is blurred.
+Comments against system features.
 
 # 32. Community Idea: Does Right & Does Wrong
 
@@ -318,6 +318,8 @@ A shop of things that people can do with their computers. Not necessarily apps b
     "Now you have a virtual network you can set up the following useful programs"
      * File [Synchronization]
 ```
+
+I'd like my desktop environment to be social and I can search for ways of doing things, such a search for "track spending" and then I am introduced to someone's technical solution to this problem which is to show forms that collect spend amounts. If I don't like this approach, I can try another one. The line between software installation and use of someone's software is blurred.
 
 # 73. Personal overlay network
 
