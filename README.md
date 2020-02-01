@@ -327,4 +327,8 @@ Existing:
 
 * Hamachi
 
-# 74. 
+# 74. Community Idea: Instant Share
+
+Say you want attention of a tweet or a web page you have created now. A community of people who promise to look at what someone anonymous sends them.
+
+# 75. 
