@@ -140,7 +140,7 @@ I want an editor that looks like the Github issue editor but renders to plain te
 
 # 31. Social desktop
 
-A desktop shouldn't feel so alone. I want every screen provided by the desktop to have a chat room associated. People can discuss the desktop and vote on things regarding the GUI.
+I'd like my desktop environment to be social. A desktop shouldn't feel so alone. I want every screen provided by the desktop to have a chat room associated. People can discuss the desktop and vote on things regarding the GUI.
 
 # 32. Community Idea: Does Right & Does Wrong
 
@@ -319,7 +319,7 @@ A shop of things that people can do with their computers. Not necessarily apps b
      * File [Synchronization]
 ```
 
-I'd like my desktop environment to be social and I can search for ways of doing things, such a search for "track spending" and then I am introduced to someone's technical solution to this problem which is to show forms that collect spend amounts. If I don't like this approach, I can try another one. The line between software installation and use of someone's software is blurred.
+I can search for ways of doing things, such a search for "track spending" and then I am introduced to someone's technical solution to this problem which is to show forms that collect spend amounts. If I don't like this approach, I can try another one. The line between software installation and use of someone's software is blurred.
 
 # 73. Personal overlay network
 
@@ -329,8 +329,6 @@ Existing:
 
 * Hamachi
 
-# 74. Community Idea: Instant Share
-
-Say you want attention of a tweet or a web page you have created now. A community of people who promise to look at what someone anonymous sends them.
+# 74. 
 
 # 75. 
