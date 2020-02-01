@@ -319,4 +319,12 @@ A shop of things that people can do with their computers. Not necessarily apps b
      * File [Synchronization]
 ```
 
-# 73. 
+# 73. Personal overlay network
+
+My phone should be contactable via my desktop and my laptops.
+
+Existing:
+
+* Hamachi
+
+# 74. 
