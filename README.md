@@ -321,7 +321,7 @@ A shop of things that people can do with their computers. Not necessarily apps b
 
 # 73. Personal overlay network
 
-My phone should be contactable via my desktop and my laptops.
+My phone should be contactable via my desktop and by my laptops.
 
 Existing:
 
