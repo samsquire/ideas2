@@ -290,17 +290,17 @@ Ordering food could be a commodity like web server software. We need an open sou
 
 Monoliths can be stem cell servers - they can startup and choose what kind of servers to be. When software needs to communicate with a service boundary, it should go through a library. The library is configured to transform requests into either method calls, REST calls or MQ messages based on configuration to talk to other deployed instances of the service.
 
-# 68. 
+# 68. System GUIs web based
 
-
+Use a web interface to configure a computer system.
 
 # 69. IT design software
 
-Active network design software. Build an AWS network with a network designer GUI and render to Terraform.
+Active network design software. Build a cloud network with a network designer GUI and render to Terraform or cloud API calls.
 
 # 70. Work spreadsheet
 
-I want to allocate computing resources to different purposes. I'd like a GUI like spreadsheet that lets me allocate work to different CPUs or containers.
+I want to allocate computing resources to different purposes. I'd like a GUI like spreadsheet that lets me allocate work to different CPUs and to different machines running containers.
 
 # 71. Community Idea: Workloads
 
