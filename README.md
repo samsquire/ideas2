@@ -304,7 +304,7 @@ I want to allocate computing resources to different purposes. I'd like a GUI lik
 
 # 71. Community Idea: Workloads
 
-My computer has lots of spare resources. I would like work to be allocated to my computer.
+My computer has lots of spare resources. My computer is powerful enough to run demanding applications because it is multicore. What my computer needs is models that take resources to run. I'd like a community of people generating workloads for computers to run.
 
 # 72. Task Store
 
