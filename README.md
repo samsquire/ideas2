@@ -305,3 +305,7 @@ I want to allocate computing resources to different purposes. I'd like a GUI lik
 # 71. Community Idea: Workloads
 
 My computer has lots of spare resources. I would like work to be allocated to my computer.
+
+# 72. Task Store
+
+A shop of things that people can do with their computers. Not necessarily apps but the interoperation of multiple services installed to create some behaviour.
