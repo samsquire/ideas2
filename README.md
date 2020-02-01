@@ -140,7 +140,7 @@ I want an editor that looks like the Github issue editor but renders to plain te
 
 # 31. Social desktop
 
-Comments against system features.
+A desktop shouldn't feel so alone. I want every screen provided by the desktop to have a chat room associated. People can discuss the desktop and vote on things regarding the GUI.
 
 # 32. Community Idea: Does Right & Does Wrong
 
