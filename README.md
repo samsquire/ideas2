@@ -309,3 +309,12 @@ My computer has lots of spare resources. I would like work to be allocated to my
 # 72. Task Store
 
 A shop of things that people can do with their computers. Not necessarily apps but the interoperation of multiple services installed to create some behaviour.
+
+```
+    "Now you have a website, the following tasks are open to you"
+     * Password Protect my photo album
+    "Now you have a database, the following tasks are open to you:"
+     * Setup [Accounts]
+    "Now you have a virtual network you can set up the following useful programs"
+     * File [Synchronization]
+```
