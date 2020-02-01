@@ -300,7 +300,7 @@ Active network design software. Build an AWS network with a network designer GUI
 
 # 70. Work spreadsheet
 
-I want to allocate computing resources to different purposes. I'd like a GUI like spreadsheet that lets me produce workloads for my computer.
+I want to allocate computing resources to different purposes. I'd like a GUI like spreadsheet that lets me allocate work to different CPUs or containers.
 
 # 71. Community Idea: Workloads
 
