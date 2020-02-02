@@ -329,13 +329,13 @@ Existing:
 
 * Hamachi
 
-# 74. Community system administration
+# 74. Community idea: System Administration
 
-A Reddit like website for managing large fleets of servers in a peer to peer way. Each post represents an adminsitration task and potentially a script or Ansible task. For example, in the backup part of  the website, there's a post for carrying out general system backups and a nested tree of actual backups.
+A reddit or forum like website for managing large fleets of servers in a peer to peer way. Each post represents an administration task or some thing that can be executed on a server such as an Ansible task. For example, in the backup part of the website, there's a post for beginning a general system backups and a nested tree of actual backups. There's a post for each resource.
 
 # 75. Community Idea: Optimist community
 
-A community of thoughts of "wouldn't it be nice if".
+A community of thoughts around "wouldn't it be nice if".
 
 See my repository https://github.com/samsquire/society for my model of society.
 
