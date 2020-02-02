@@ -292,7 +292,7 @@ Monoliths can be stem cell servers - they can startup and choose what kind of se
 
 # 68. Web based system GUIs
 
-Use a web interface to render preference screens.
+Use a web interface to render desktop environment screens.
 
 # 69. IT design software
 
@@ -300,7 +300,7 @@ Active network design software. Build a cloud network with a network designer GU
 
 # 70. Work spreadsheet
 
-I want to allocate computing resources to different purposes. I'd like a GUI like spreadsheet that lets me allocate work to different CPUs and to different machines running containers.
+I want to allocate computing resources to different purposes. I'd like a GUI like spreadsheet that lets me allocate work to different CPUs and to different machines perhaps running containers.
 
 # 71. Community Idea: Workloads
 
@@ -321,7 +321,7 @@ A shop of things that people can do with their computers. Not necessarily apps b
 
 I can search for ways of doing things, such a search for "track spending" and then I am introduced to someone's technical solution to this problem which is to show forms that collect spend amounts. If I don't like this approach, I can try another one. The line between software installation and use of someone's software is blurred.
 
-# 73. Personal overlay network
+# 73. Personal overlay network (VPN)
 
 My phone should be contactable via my desktop and by my laptops.
 
@@ -329,6 +329,14 @@ Existing:
 
 * Hamachi
 
-# 74. 
+# 74. Peer to peer system administration
 
-# 75. 
+A Reddit like website where each post is a system administration task. Visitors to the website can vote on system administration tasks that need to be done based on system metrics.
+
+# 75. Community Idea: Optimist community
+
+A community of ideas of things that would be nice to have in the future.
+
+See my repository https://github.com/samsquire/society for my model of society.
+
+# 76. 
