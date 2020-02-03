@@ -99,6 +99,10 @@ Churn is painful in software development. Things change without warning and thin
 
 Modern systems such as Elasticsearch, Consul require clusters of computers to install against. What we need is installers that can be configured to install across multiple machines, not just independent machines.
 
+Existing:
+
+* Kubernetes, Helm
+
 # 23. Output text as a changeable interface
 
 Have you ever been looking at the output of a command and wanted to change the output of the command directly? Perhaps it's Kubernetes output.
