@@ -339,4 +339,8 @@ A community of thoughts around "wouldn't it be nice if".
 
 See my repository https://github.com/samsquire/society for an optimistic view of the future.
 
-# 76. 
+# 76. Configuration Trialler
+
+A tool that either generates configuration files or command line options to try out different combinations of configuration options together. Use a hill climbing algorithm to see how each option affects run time performance or some other property of the system such as safety. I wrote a script to do this and try different encryption and compression options of SSH but I've since lost this script.
+
+# 77.  
