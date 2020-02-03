@@ -337,6 +337,6 @@ A reddit or forum like website for managing large fleets of servers in a peer dr
 
 A community of thoughts around "wouldn't it be nice if".
 
-See my repository https://github.com/samsquire/society for my model of society.
+See my repository https://github.com/samsquire/society for an optimistic view of the future.
 
 # 76. 
