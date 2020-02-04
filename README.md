@@ -347,7 +347,7 @@ See my repository https://github.com/samsquire/society for an optimistic view of
 
 A tool that either generates configuration files or command line options to try out different combinations of configuration options together. Use a hill climbing algorithm to see how each option affects run time performance or some other property of the system such as safety.
 
-# 77. Devops dataflow language
+# 77. Devops Data Flow Model and Execution
 
 Model dataflow between infrastructure provisioning tools such as Terraform, Ansible, Packer and execute the resulting graph in parallel.
 
