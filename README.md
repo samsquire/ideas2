@@ -349,7 +349,7 @@ A tool that either generates configuration files or command line options to try 
 
 # 77. Devops Data Flow Model and Execution
 
-Model dataflow between infrastructure provisioning tools such as Terraform, Ansible, Packer and execute the resulting graph in parallel.
+Model dataflow between infrastructure provisioning tools such as Terraform, Ansible, Packer, Kubernetes and execute the resulting graph in parallel.
 
 See devops-pipeline https://github.com/samsquire/devops-pipeline
 
