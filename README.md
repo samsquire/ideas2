@@ -254,7 +254,7 @@ Like CURL but for querying APIs and handling pagination for you.
 
 Every form of information collected by a corporation to go to a GUI server whereby data forms can be monitored and centrally tested.
 
-# 57. Stream editor
+# 57. Stream/Pipeline editor
 
 An editor for streams, such as Bash pipelines or Kafka streams. Would allow you to replay data between points in the pipeline and test each stage independently.
 
@@ -297,6 +297,8 @@ Ordering food could be a commodity like web server software. We need an open sou
 # 67. Stem cell servers and communication libraries for monolith to microservice
 
 Monoliths can be stem cell servers - they can startup and choose what kind of servers to be. When software needs to communicate with a service boundary, it should go through a library. The library is configured to transform requests into either method calls, REST calls or MQ messages based on configuration to talk to other deployed instances of the service.
+
+Communication libraries can be configured with retry logic and circuit breakers.
 
 # 68. Web based system GUIs
 
@@ -357,8 +359,15 @@ Model dataflow between infrastructure provisioning tools such as Terraform, Ansi
 
 See devops-pipeline https://github.com/samsquire/devops-pipeline
 
-# 78. CSV enriched with YAML to Cloud/Containers
+# 78. CSV with embedded YAML to Cloud/Containers
 
-CSV of VMs or images to spin up in the cloud.
+CSV of VMs/images to spin up in the cloud.
 
-# 79. 
+# 79. Nested spreadsheets
+
+Embed a sub-spreadsheet in a row.
+
+# 80. 
+
+
+
