@@ -270,7 +270,7 @@ My computer and software I interact with raises events all the time. I'd like to
 
 An interface to create asynchronous tasks definitions. I'm thinking of complicated workflows in the backends of controllers whereby multiple services need to be contacted and queried and where there are complicated error handling.
 
-# 61 Resource scheduling
+# 61. Resource scheduling
 
 Schedule SSH keys and schedule public keys to be in different locations in a network. Schedule files to be present on certain servers.
 
