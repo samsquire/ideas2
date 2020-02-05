@@ -81,7 +81,9 @@ An app that downloads data from various sources online to fill 1 gigabyte of dat
 
 # 18. CMS for building webapps
 
-A CMS for webapps: create serverside and clientside routes, register handlers from a GUI, create facts about the GUI.
+A CMS for webapps: create serverside and clientside routes, register handlers for the server and client side routes, create facts about the GUI.
+
+Would be best integrated with 11. Additive GUIs
 
 # 19. Stack-upon
 
