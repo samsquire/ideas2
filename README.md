@@ -63,6 +63,8 @@ Wouldn't it be nice if you could recommend a song to play with a web page as bac
 
 The entire GUI could be generatable as response to a query.
 
+A GUI is a two dimensional representation of a multidimensional data structure so a query is a plane slicing a high dimensional data structure.
+
 # 14. User URLs
 
 As the user mouses around the GUI, a URL should be generated which is a representation of what the user is doing at any point in time including all context from the user's perspective. This is like a very deep link into an application, as the user is a resource. See https://github.com/samsquire/user-urls
