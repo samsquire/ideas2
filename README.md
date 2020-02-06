@@ -367,7 +367,11 @@ CSV of VMs/images to spin up in the cloud.
 
 Embed a sub-spreadsheet in a row.
 
-# 80. 
+# 80. Distributed Assertions
+
+Log rich data structures and assert across the data structures that were logged by each machine. Could be used to test distributed systems. Use complicated event processing to do unit tests across machines.
+
+# 81. 
 
 
 
