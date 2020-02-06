@@ -341,7 +341,9 @@ Existing:
 
 # 74. Community idea: System Administration
 
-A reddit or forum like website for managing large fleets of servers in a peer driven way. Each post represents an administration task or some thing that can be executed on a server such as an Ansible task. For example, in the backup part of the website, there's a post for beginning a general system backups and a nested tree of actual backups. There's a post for each system resource such as listening ports and active connections.
+A reddit or forum like website for managing large fleets of servers in a peer driven way. Each post represents an administration task or some thing that can be executed on a server such as an Ansible task. For example, in the backup part of the website, there's a post for beginning a general system backups and a nested tree of actual backups. There's a post for each system resource such as listening ports and active connections. 
+
+Create machines in the cloud as easily as creating a post.
 
 # 75. Community Idea: Optimist community
 
@@ -385,3 +387,4 @@ Use things that are on the screen by right clicking on them and selecting 'Use'.
 
 # 84. 
 
+# 85. 
