@@ -375,5 +375,9 @@ Log rich data structures and assert across the data structures that were logged 
 
 Write an end-to-end flow of programmatically readable log lines that should happen at each step of a process. The log lines act as an interface to implement against. Can assign which machines carries out which log line. Infer communication between log entries if they jump between machines.
 
-# 82. 
+# 82. Easy New Environment
+
+Spin up an entire environment by following a repeatable set of steps. See devops-pipeline https://github.com/samsquire/devops-pipeline
+
+# 83. 
 
