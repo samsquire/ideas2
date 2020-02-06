@@ -371,7 +371,9 @@ Embed a sub-spreadsheet in a row.
 
 Log rich data structures and assert across the data structures that were logged by each machine. Could be used to test distributed systems. Use complicated event processing to do unit tests across machines.
 
-# 81. 
+# 81. Code generation from logs
+
+Write an end-to-end flow of what should happen overall with a rich logging syntax including REST handler logs. Then assign each log line to each machine/process and generate sourcecode of empty resource handlers.
 
 
 
