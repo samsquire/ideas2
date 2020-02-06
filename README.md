@@ -371,9 +371,9 @@ Embed a sub-spreadsheet in a row.
 
 Log rich data structures and assert across the data structures that were logged by each machine. Could be used to test distributed systems. Use complicated event processing to do unit tests across machines.
 
-# 81. Code generation from logs
+# 81. Log Driven Development
 
-Write an end-to-end flow of what should happen overall with a rich logging syntax including REST handler logs. Then assign each log line to each machine/process and generate sourcecode of empty resource handlers.
+Write an end-to-end flow of programmatically readable log lines that should happen at each step of a process. The log lines act as an interface to implement against. Can assign which machines carries out which log line. Infer communication between log entries if they jump between machines.
 
-
+# 82. 
 
