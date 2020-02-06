@@ -373,7 +373,7 @@ Log rich data structures and assert across the data structures that were logged 
 
 # 81. Log Driven Development
 
-Write an end-to-end flow of programmatically readable log lines that should happen at each step of a process. The log lines act as an interface to implement against. Can assign which machines carries out which log line. Infer communication between log entries if they jump between machines.
+Write an end-to-end flow of programmatically readable log lines that should happen at each step of a process. The log lines act as an interface to implement against and pass around context data. Can assign which machines carries out which log line. Infer communication between log entries if they jump between machines.
 
 # 82. New Environment by Name
 
