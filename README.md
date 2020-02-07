@@ -389,6 +389,26 @@ Use things that are on the screen by right clicking on them and selecting 'Use'.
 
 # 84. Code Slice
 
-Slice a piece of code up after arbitrary statements where each slice introduces a communication call in a direction to convey context.
+Slice a block of contiguous code up and specify where each slice should run using comments. Introduces implicit communication calls to convey contextual data through the code. Write one program and split it up between servers via communication slices. You specify where each side should run, on the client, on a server or in a microservice.
+
+```
+# clientside
+user_login_form = document.getElementById("login_form")
+login_request = Request(user_login_form)
+
+# server /login
+password = login_request.get("password")
+username = login_request.get("username")
+hashed_password = bcrypt.hash(password)
+users = db.users.find(hashed_password=hashed_password)
+if users:
+   response = make_response(redirect('/'))
+   response.set_cookie('session_id', s.session_id)
+
+# server /
+feed_items = db.feed.find(username=username)
+response = make_response(render_template('feed.html', items=feed_items))
+
+```
 
 # 85. 
