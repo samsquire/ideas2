@@ -397,7 +397,7 @@ login_request = Request()
 password = login_request.get("password")
 username = login_request.get("username")
 hashed_password = bcrypt.hash(password)
-users = db.users.find(hashed_password=hashed_password)
+users = db.users.find(username=username, hashed_password=hashed_password)
 if users:
    response = make_response(redirect('/'))
    response.set_cookie('session_id', s.session_id)
