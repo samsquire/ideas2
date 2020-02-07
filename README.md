@@ -392,11 +392,8 @@ Use things that are on the screen by right clicking on them and selecting 'Use'.
 Slice a block of contiguous code up and specify where each slice should run using comments. Introduces implicit communication calls to convey contextual data through the code. Write one program and split it up between servers via communication slices. You specify where each side should run, on the client, on a server or in a microservice.
 
 ```
-# clientside
-user_login_form = document.getElementById("login_form")
-login_request = Request(user_login_form)
-
 # server /login
+login_request = Request()
 password = login_request.get("password")
 username = login_request.get("username")
 hashed_password = bcrypt.hash(password)
