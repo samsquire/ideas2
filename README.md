@@ -387,7 +387,7 @@ The ability to create a new environment by changing a single string. See devops-
 
 Use things that are on the screen by right clicking on them and selecting 'Use'.
 
-# 84. Code Slice
+# 84. Communication Code Slices
 
 Slice a block of contiguous code up and specify where each slice should run using comments. Introduces implicit communication calls to convey contextual data through the code. Write one program and split it up between servers via communication slices. You specify where each side should run, on the client, on a server or in a microservice.
 
