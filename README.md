@@ -422,4 +422,4 @@ response = make_response(render_template('feed.html', items=recent_items))
 
 # 85. Threadsheets
 
-A spreadsheet of objects, rather than numerical cells. Can edit a server as a spreadsheet.
+A spreadsheet of objects, rather than numerical cells. The code for a web server can live in a cell and communication can be threaded through different cells.
