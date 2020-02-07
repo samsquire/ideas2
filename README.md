@@ -420,4 +420,6 @@ response = make_response(render_template('feed.html', items=recent_items))
 
 ```
 
-# 85. 
+# 85. Threadsheets
+
+A spreadsheet of objects, rather than numerical cells. Can edit a server as a spreadsheet.
