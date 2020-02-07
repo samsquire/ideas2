@@ -27,6 +27,8 @@ Existing:
 
 People can insert demands for products and services into a demand marketplace within a geographical location. I want a dentist within 5 minutes walk of my home. I want a supermarket within 5 minutes walk of my home. In aggregate, people create demands on their local areas. There should be an app that exposes a market place of wants.
 
+If people published wants accurately and tracked possessions, they could automatically organise swaps with others based on what they want.
+
 # 6. Lifestyle subscriptions
 
 There's a single app for following any dream or any lifestyle with user created content. You pay money per month for some thing you want to do, maybe a lifestyle of healthy eating, niche hobby, sports or gym. Maybe you want to become a musician or you want a lifestyle where you live in suburbs. The company sends you recommended decisions to make, materials and gear that you need for your level of subscription. So if you said you want a lifestyle where you can get to work within 25 minutes, the app would tell you where to move to. Or if you want to eat out once a month, you can because your level of subscription includes it.
@@ -373,9 +375,9 @@ Embed a sub-spreadsheet in a row.
 
 Log rich data structures and assert across the data structures that were logged by each machine. Could be used to test distributed systems. Use complicated event processing to do unit tests across machines.
 
-# 81. Log Driven Development
+# 81. Structured Logging Based Development
 
-Write an end-to-end flow of programmatically readable log lines that should happen at each step of a process. The log lines act as an interface to implement against and pass around context data. Can assign which machines carries out which log line. Infer communication between log entries if they jump between machines.
+Write an end-to-end flow of programmatically readable log lines that should happen at each step of a process. The log lines act as an interface to implement against and pass around context data. Can assign which machines carries out which log line. Infer communication between log entries by jumps between machines.
 
 # 82. New Environment by Name
 
@@ -386,5 +388,3 @@ The ability to create a new environment by changing a single string. See devops-
 Use things that are on the screen by right clicking on them and selecting 'Use'.
 
 # 84. 
-
-# 85. 
