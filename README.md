@@ -409,6 +409,11 @@ if users:
 feed_items = db.feed.find(username=username)
 response = make_response(render_template('feed.html', items=feed_items))
 
+# clientside /feed
+recommendation_service.fetch_recommendations(username=username)
+recent_posts_service.fetch_recent_posts(username=username)
+
+
 ```
 
 # 85. 
