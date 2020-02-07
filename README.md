@@ -73,7 +73,7 @@ As the user mouses around the GUI, a URL should be generated which is a represen
 
 # 15. Free flowing work app
 
-Replace job interviews at individual companies with interviews with an app company to vet people for a certain kind of role. People can look at shop exterior and see a logo of an Accreditation  company and work there if they have been vetted by the app. Transport can be branded by Accreditation company and accreditation app companies can specialise in the quality of the people they hire.
+Replace job interviews at individual companies with interviews with an Accreditation app company to vet people for a certain kind of role. People can look at shop exterior and see a logo of an Accreditation  company and work there if they have been vetted by the app. Transport can be branded by Accreditation company and accreditation app companies can specialise in the quality of the people they hire.
 
 # 16. Cloud accelerated desktops
 
