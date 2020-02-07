@@ -389,7 +389,7 @@ Use things that are on the screen by right clicking on them and selecting 'Use'.
 
 # 84. Communication Code Slices
 
-Slice a block of contiguous code up and specify where each slice should run using comments. Introduces implicit communication calls to convey contextual data through the code. Write one program and split it up between servers via communication slices. You specify where each side should run, on the client, on a server or in a microservice.
+Slice a block of contiguous code up and specify where each slice should run using comments. Introduces implicit communication calls to convey context data through the code. Write one program and split it up between servers via communication slices. You specify where each side should run, on the client, on a server or in a microservice.
 
 ```
 # server /login
@@ -407,9 +407,16 @@ feed_items = db.feed.find(username=username)
 response = make_response(render_template('feed.html', items=feed_items))
 
 # clientside /feed
-recommendation_service.fetch_recommendations(username=username)
-recent_posts_service.fetch_recent_posts(username=username)
+recommendation_service.fetch_recommendations()
+recent_posts_service.fetch_recent_posts()
 
+# recommendation_service /recommendations
+recommended_items = db.recommendations.find(username=username)
+response = make_response(render_template('feed.html', items=recommended_items))
+
+# recent_posts_service /recent_posts
+recent_items = db.recents.find(username=username)
+response = make_response(render_template('feed.html', items=recent_items))
 
 ```
 
