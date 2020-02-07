@@ -387,4 +387,8 @@ The ability to create a new environment by changing a single string. See devops-
 
 Use things that are on the screen by right clicking on them and selecting 'Use'.
 
-# 84. 
+# 84. Code Slice
+
+Slice a piece of code up after arbitrary statements where each slice introduces a communication call in a direction to convey context.
+
+# 85. 
