@@ -379,6 +379,8 @@ Log rich data structures and assert across the data structures that were logged 
 
 Write an end-to-end flow of programmatically readable log lines that should happen at each step of a process. The log lines act as an interface to implement against. Can assign which machines carries out which log line. Infer communication between log entries by jumps between machines. Log lines with the same causality ID cause eachother. Pass contextual information automatically.
 
+See https://github.com/samsquire/structured-logging-2-system
+
 # 82. New Environment by Name
 
 The ability to create a new environment by changing a single string. See devops-pipeline https://github.com/samsquire/devops-pipeline
