@@ -373,7 +373,7 @@ Embed a sub-spreadsheet in a row.
 
 # 80. Distributed Assertions
 
-Log rich data structures and assert across the data structures that were logged by each machine. Could be used to test distributed systems. Use complicated event processing to do unit tests across machines.
+Log rich data structures and assert across the data structures that were logged by each machine. Could be used to test distributed systems. Use Complex event processing (CEP) to do unit tests across logs.
 
 # 81. Structured Logging Based Development
 
