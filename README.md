@@ -12,7 +12,7 @@ Someone with a phone should be able to just create a business that satisfies all
 
 # 3. Telework
 
-Computational problems can be rendered into labelled graphical video streams upon which people vote. People can solve computational problems with a television screen, monotir or screen with numbered graphs and a keypad that they enter sequences of numbers into. Problems like efficient scheduling of cars for carpooling or deliveries are solvable by human beings quickly with a user interface that allows one to lasso points on the map and add cars. This is for problems that are not strictly numerical. The goal is to give everyone with a screen, monitor or television a source of income.
+Computational problems can be rendered into labelled graphical video streams upon which people vote. People can solve computational problems with a television screen, monitor or phone screen with numbered graphs and a keypad that they enter sequences of numbers into. Problems like efficient scheduling of cars for carpooling or deliveries are solvable by human beings quickly with a user interface that allows one to lasso points on the map and add cars. This is for problems that are not strictly numerical. The goal is to give everyone with a screen, monitor or television a source of income.
 
 # 4. Paper Work Language
 
