@@ -426,4 +426,6 @@ response = make_response(render_template('feed.html', items=recent_items))
 
 A spreadsheet of objects, rather than numerical cells. The code for a web server can live in a cell and communication can be threaded through different cells.
 
-# 86. 
+# 86. Stationary Reader
+
+A reader that you can keep open on a television without any mouse or keyboard input and it shows content and scrolls through content.
