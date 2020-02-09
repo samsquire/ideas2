@@ -25,13 +25,13 @@ Existing:
 
 # 5. Open Demand Mapping and Want marketplaces
 
-People can insert demands for products and services into a demand marketplace within a geographical location. I want a dentist within 5 minutes walk of my home. I want a supermarket within 5 minutes walk of my home. In aggregate, people create demands on their local areas. There should be an app that exposes a market place of wants.
+People can insert demands for products and services into a demand marketplace within a geographical location. I want a dentist within 5 minutes walk of my home. I want a supermarket within 5 minutes walk of my home. I want to be at work within 10 minutes walk. In aggregate, people create demands on their local areas. There should be an app that exposes a market place of wants.
 
 If people published wants accurately and tracked possessions, they could automatically organise swaps with others based on what they want.
 
 # 6. Lifestyle subscriptions
 
-There's a single app for following any dream or any lifestyle with user created content. You pay money per month for some thing you want to do, maybe a lifestyle of healthy eating, niche hobby, sports or gym. Maybe you want to become a musician or you want a lifestyle where you live in suburbs. The company sends you recommended decisions to make, materials and gear that you need for your level of subscription. So if you said you want a lifestyle where you can get to work within 25 minutes, the app would tell you where to move to. Or if you want to eat out once a month, you can because your level of subscription includes it.
+There's a single app for following any dream or any lifestyle with user created content. You pay money per month for some thing you want to do, maybe a lifestyle of healthy eating, niche hobby, sports or gym. Maybe you want to become a musician or you want a lifestyle where you live in suburbs. The company sends you recommended decisions to make, materials and gear that you need for your level of subscription. So if you said you want a lifestyle where you can get to work within 25 minutes, the app would tell you where to move to. Or if you want to eat out once a month, you can because your level of subscription includes it. Can deploy futures to meet demand.
 
 https://lifestyle-subscriptions.com
 
