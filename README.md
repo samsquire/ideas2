@@ -429,3 +429,5 @@ A spreadsheet of objects, rather than numerical cells. The code for a web applic
 # 86. Stationary Reader
 
 A reader that you can keep open on a monitor while eating without any mouse or keyboard input and it shows content and scrolls through content.
+
+# 87. 
