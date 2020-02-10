@@ -424,7 +424,7 @@ response = make_response(render_template('feed.html', items=recent_items))
 
 # 85. Threadsheets
 
-A spreadsheet of objects, rather than numerical cells. The code for a web server can live in a cell and communication can be threaded through different cells.
+A spreadsheet of objects, rather than numerical cells. The code for a web application can live in a cell and communication to database and other services can be threaded through different cells. Would have a GUI where each cell can act like a REPL to your database, ORM system and CLI.
 
 # 86. Stationary Reader
 
