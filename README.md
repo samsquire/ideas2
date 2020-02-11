@@ -355,7 +355,7 @@ See my repository https://github.com/samsquire/society for an optimistic view of
 
 # 76. Configuration Trialler
 
-A tool that either generates configuration files or command line options to try out different combinations of configuration options together. Use a hill climbing algorithm to see how each option affects run time performance or some other property of the system such as safety.
+A tool that either generates configuration files or command line options to try out different combinations of configuration options together. Use a hill climbing algorithm to see how each option affects run time performance or some other property of the system such as file size or safety. I had such a script that experimented with compression and encryption options of GPG but I have since lost it.
 
 # 77. Devops Data Flow Model and Execution
 
