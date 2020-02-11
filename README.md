@@ -434,4 +434,14 @@ A reader that you can keep open on a monitor while eating without any mouse or k
 
 Each URL is a cell in a spreadsheet.
 
-# 88. 
+# 88. Spaced repetition feed
+
+Take surfed pages and turn them into a spaced repetition feed.
+
+# 89. 
+
+
+
+
+
+
