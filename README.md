@@ -430,7 +430,9 @@ A spreadsheet of objects, rather than numerical cells. The code for a web applic
 
 A reader that you can keep open on a monitor while eating without any mouse or keyboard input and it shows content and scrolls through content.
 
-# 87. 
+# 87. Personalised Advice Stream
+
+With data from the Human Query Engine and user generated opinions, we can produce highly personalised advice for people in the form of notifications. Eating too much chocolate? You get a notification about it.
 
 # 88. Spaced repetition feed
 
