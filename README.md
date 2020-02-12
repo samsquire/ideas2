@@ -111,7 +111,7 @@ Existing:
 
 # 23. Output text as a changeable interface
 
-Have you ever been looking at the output of a command and wanted to change the output of the command directly? Perhaps it's Kubernetes output.
+Have you ever been looking at the output of a command and wanted to change the output of the command directly? Perhaps it's Kubernetes output or the output of ip a.
 
 You click on a piece of output text, it pops up in an editor and you change it. You then are told what you need to run to make the changed output a reality.
 
