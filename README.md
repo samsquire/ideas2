@@ -439,7 +439,7 @@ A reader that you can keep open on a monitor while eating without any mouse or k
 
 # 87. Personalised Advice Stream
 
-With data from the Human Query Engine and user generated opinions, we can produce highly personalised advice for people in the form of notifications. Eating too much chocolate? You get a notification about it. Going to bed late? Get told to go to bed earlier.
+With data from the Human Query Engine and user generated opinions, we can produce highly personalised advice for people in the form of notifications. Eating too much chocolate? You get a notification (in an advice feed) about it. Going to bed late? Get told to go to bed earlier. Using an out of date programming technique?
 
 # 88. Spaced repetition feed
 
