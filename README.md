@@ -166,7 +166,7 @@ Run a key logger that logs data entered into every program on a computer to keep
 
 # 35. Chat development environment
 
-Spin up Docker containers from a chat room. Write SQL. Write JSX React components in chat. Write reduct actions in the chat room. Everyone runs the same code and anyone can make a change anywhere. Without touching a text editor.
+Spin up Docker containers from a chat room. Write SQL. Write JSX React components in chat. Write Redux actions in the chat room. Everyone runs the same code and anyone can make a change anywhere. Without touching a text editor.
 
 # 36. Wiki Problem System
 
