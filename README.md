@@ -229,7 +229,7 @@ Take a single file with special comments to delineate directories and render in 
 
 # 48. Continuous deployment integrated into the desktop
 
-Titlebar of running applications reflects state of the build of a compiled application that is being compiled.
+Titlebar of running applications reflects state of an upcoming build of the same application that is being compiled on CI.
 
 # 49. Stateful workstation
 
