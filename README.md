@@ -464,7 +464,7 @@ When you need to make a decision, you open another program in the office suite c
 
 # 91. Desktop distribution has a development environment
 
-A Linux distirbution could come with a working development environment already configured to write applications in.
+A Linux distribution could come with a working development environment already configured to write applications in.
 
 # 92.  
 
