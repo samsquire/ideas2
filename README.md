@@ -91,7 +91,7 @@ An app that downloads data from various sources online to fill 1 gigabyte of dat
 
 A CMS for webapps: create serverside and clientside routes, register handlers for the server and client side routes, create facts about the GUI.
 
-Would be best integrated with 11. Additive GUIs
+Would be best integrated with [11. Additive GUIs](https://github.com/samsquire/ideas2/blob/master/README.md#11-additive-guis)
 
 # 19. Stack-upon
 
