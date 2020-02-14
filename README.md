@@ -453,11 +453,11 @@ Take surfed pages and turn them into a spaced repetition feed.
 
 When you need to make a decision, you open another program in the office suite called Decision. You fill out what needs to be decided and file it in a system. The people who need to approve the decision can do so as they get notified. Automated decisions can be carried out too.
 
-# 90. 64 things for my PC to do for me while Idle
+# 90. 64 achievable things my computer can do for me while idle
 
 1. Path finding algorithm over my data
 2. Semantic Reasoning over my data
-3. Question answering over my text
+3. 
 
 
 
