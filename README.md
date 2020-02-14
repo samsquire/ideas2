@@ -449,7 +449,9 @@ With data from the Human Query Engine and user generated opinions, we can produc
 
 Take surfed pages and turn them into a spaced repetition feed.
 
-# 89. 
+# 89. Decision software
+
+When you need to make a decision, you open another program in the office suite called Decision. You fill out what needs to be decided and file it in a system. The people who need to approve the decision can do so as they get notified. Automated decisions can be carried out too.
 
 
 
