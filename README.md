@@ -265,7 +265,7 @@ Every form of information collected by a corporation to go to a GUI server where
 
 # 57. Stream/Pipeline editor
 
-An editor for streams, such as Bash pipelines or Kafka streams. Would allow you to replay data between points in the pipeline and test each stage independently.
+Another program in an Office suite: An editor for streams, such as Bash pipelines or Kafka streams. Would allow you to replay data between points in the pipeline and test each stage independently.
 
 # 58. Desktop Advertising
 
