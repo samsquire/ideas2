@@ -53,6 +53,10 @@ Depending on a library could also involve pinging the libraries' software infras
 
 See [library-mesh repo](https://github.com/samsquire/library-mesh)
 
+Existing:
+
+* [Rust Crater](https://github.com/rust-lang/crater)
+
 # 11. Additive GUIs
 
 Represent the commands that generate GUIs as a monotonically increasing set of statements about the GUI and declaratively render a GUI based on propositions of widgets in relationship to one another. Has the property of being able to extend existing GUIs by simply making more statements. See http://github.com/samsquire/additive-guis Imagine if a set of tweets could render a GUI.
