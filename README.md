@@ -180,7 +180,7 @@ A wiki that is pointed at a kubernetes or docker swarm environment with pages fo
 import problem.wiki/a*-algorithm
 import problem.wiki/map
 map = initialize_map("mapfile")
-find_shortest_path("start-position", "goal-position")
+find_shortest_path(map, "start-position", "goal-position")
 ```
 
 # 37. Secrets-login and secrets-logout
