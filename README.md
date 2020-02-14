@@ -285,7 +285,10 @@ An interface to create asynchronous tasks definitions. I'm thinking of complicat
 
 # 61. Resource scheduling
 
-Schedule SSH keys and schedule public keys to be in different locations in a network. Schedule files to be present on certain servers.
+A office suite application for allocating resources to problems.
+ * Schedule SSH keys and schedule public keys to be in different locations in a network.
+ * Schedule files to be present on certain servers.
+ * Schedule people in a company to receive things.
 
 # 62. Work by mobile phone
 
@@ -459,6 +462,7 @@ When you need to make a decision, you open another program in the office suite c
 2. Semantic Reasoning over my data
 3. 
 
+# 91. End-to-end lever
 
-
+# 92. 
 
