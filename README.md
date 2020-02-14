@@ -460,9 +460,11 @@ When you need to make a decision, you open another program in the office suite c
 
 1. Path finding algorithm over my data
 2. Semantic Reasoning over my data
-3. 
+3. Neural Network
 
-# 91. End-to-end lever
+# 91. Desktop distribution has a development environment
 
-# 92. 
+A Linux distirbution could come with a working development environment already configured to write applications in.
+
+# 92.  
 
