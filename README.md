@@ -31,7 +31,7 @@ A want app exposes a market place of wants and allows people to contact others b
 
 # 6. Lifestyle subscriptions
 
-There's a single app for following any dream or any lifestyle with user created content. You pay money per month for some thing you want to do, maybe a lifestyle of healthy eating, niche hobby, sports or gym. Maybe you want to become a musician or you want a lifestyle where you live in suburbs. The company sends you recommended decisions to make, materials and gear that you need for your level of subscription. So if you said you want a lifestyle where you can get to work within 25 minutes, the app would tell you where to move to. Or if you want to eat out once a month, you can because your level of subscription includes it. Can deploy futures to meet demand.
+There's a single app for following any dream or any lifestyle with user created content. You pay money per month for some thing you want to do, maybe a lifestyle of healthy eating, eating a certain way, niche hobby, sports or gym. Maybe you want to become a musician or you want a lifestyle where you live in suburbs. The company sends you recommended decisions to make, materials and gear that you need for your level of subscription. So if you said you want a lifestyle where you can get to work within 25 minutes, the app would tell you where to move to. Or if you want to eat out once a month, you can because your level of subscription includes it. Can deploy futures to meet demand.
 
 https://lifestyle-subscriptions.com
 
