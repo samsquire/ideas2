@@ -460,12 +460,16 @@ When you need to make a decision, you open a program in your office suite called
 
 1. Path finding algorithm
 2. Semantic Reasoning
-3. 
+3. Compiling
 4. 
 
 # 91. Desktop distribution has a development environment
 
 A Linux distribution could come with a working development environment already configured to write applications in.
 
-# 92. 
+# 92. VHost Package Manager
+
+Installs Nginx configuration files to sites-available with different server_names so you can run multiple services at home.
+
+# 93. 
 
