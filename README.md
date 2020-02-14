@@ -454,17 +454,18 @@ Take surfed pages and turn them into a spaced repetition feed.
 
 # 89. Decision software
 
-When you need to make a decision, you open another program in the office suite called Decision. You fill out what needs to be decided and file it in a system. The people who need to approve the decision can do so as they get notified. Automated decisions can be carried out too.
+When you need to make a decision, you open a program in your office suite called Decision. You fill out what needs to be decided and file it in a system. The people who need to approve the decision can do so as they get notified. Automated decisions based on rules can be defined.
 
 # 90. 64 achievable things my computer can do for me while idle
 
-1. Path finding algorithm over my data
-2. Semantic Reasoning over my data
-3. Neural Network
+1. Path finding algorithm
+2. Semantic Reasoning
+3. 
+4. 
 
 # 91. Desktop distribution has a development environment
 
 A Linux distribution could come with a working development environment already configured to write applications in.
 
-# 92.  
+# 92. 
 
