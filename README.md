@@ -480,7 +480,7 @@ Spreadsheets that run across multiple machines for performance and parallelism.
 
 # 94. Spreadsheet web designer
 
-A development server that can be the destination of any web form. Using the primitives map, filer, reduce, a spreadsheet that lets you handle web requests and map data to web pages.
+A development server that can be the destination of any web form. Using the primitives map, filer, reduce, a spreadsheet that lets you see incoming data and transform it into a web page.
 
 # 95. 
 
