@@ -483,5 +483,7 @@ Spreadsheets that run across multiple machines for performance and parallelism. 
 
 A development server that can be the destination of any web form. Using the primitives map, filer, reduce, a spreadsheet that lets you see incoming data and transform it into a web page.
 
-# 95. 
+# 95. Spreadsheeet formula to SQL
+
+Spreadsheets are helpful views of data. It should be possible to open a database with a spreadsheet view and convert a SUM formulas to a SQL statements.
 
