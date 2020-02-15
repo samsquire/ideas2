@@ -458,7 +458,7 @@ Take surfed pages and turn them into a spaced repetition feed.
 
 When you need to make a decision, you open a program in your office suite called Decision. You fill out what needs to be decided and file it in a system. The people who need to approve the decision can do so as they get notified. Automated decisions based on rules can be defined.
 
-# 90. 64 achievable things my computer can do for me while idle
+# 90. Achievable things my computer can do for me while idle
 
 My CPU has 64 threads in order to do things in parallel. I am looking for things I can use my CPU for.
 
