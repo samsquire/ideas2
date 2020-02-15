@@ -463,7 +463,8 @@ My CPU has 64 threads in order to do things in parallel. I am looking for things
 1. Path finding algorithm
 2. Semantic Reasoning
 3. Compiling
-4. 
+4. Running test builds (with coverage)
+5. 
 
 # 91. Desktop distribution has a development environment
 
@@ -473,5 +474,13 @@ A Linux distribution could come with a working development environment already c
 
 Installs Nginx configuration files to sites-available with different server_names so you can run multiple services at home.
 
-# 93. 
+# 93. Distributed spreadsheets
+
+Spreadsheets that run across multiple machines for performance and parallelism.
+
+# 94. Spreadsheet web designer
+
+A development server that can be the destination of any web form. Using the primitives map, filer, reduce, a spreadsheet that lets you handle web requests and map data to web pages.
+
+# 95. 
 
