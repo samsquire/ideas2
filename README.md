@@ -498,7 +498,7 @@ A development server that can be the destination of any web form. Using the prim
 
 # 95. Spreadsheeet formula to SQL
 
-Spreadsheets are helpful views of data. It should be possible to open a database with a spreadsheet viewer and convert spreadsheet formulas into SQL.
+Spreadsheets are helpful views of data. Can open a database with a spreadsheet viewer and convert spreadsheet formulas into SQL.
 
 # 96. 
 
