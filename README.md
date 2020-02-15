@@ -95,7 +95,9 @@ Would be best integrated with [11. Additive GUIs](https://github.com/samsquire/i
 
 # 19. Stack-upon
 
-The OSI model makes a whole deal of sense, one layer adds promises on-top of the layers below to create an emergent complexity. Each layer makes promises to other layers. What if we had a visualization of a multi layered spreadsheet whereby each layer is a layer of the architecture of the software. Each layer is like a line in your stacktrace at the same abstraction level. In addition to formula cells representing computation, we have references that represent communication between different labelled cells. Passing data between layers is an interface which either takes you to a layer above or below to where you are at. This is where enterprise service bus mapping screens would come in handy.
+The OSI model makes a whole deal of sense, one layer adds promises on-top of the layers below to create an emergent complexity. The network stack manages to offer some very complicated behaviour with the illusion of simplicity at layers above. Each layer makes promises to other layers. What if normal software could take advantage of this property of network stacks by breaking up each responsibility into layers and use wrapped message passing to solve problems.
+
+What if we had a visualization of a multi layered spreadsheet whereby each layer is a layer of the architecture of the software. Instead of formulas calculating an answer, we have message passing between cells that represent promise keepers. So if you wanted a CRUD system, you would send a message to a CRUD service and configure the CRUD service with your messages. You can explore different layers by going up and down the stack whereby the messages change.
 
 # 20. Credit cards to tap into buildings
 
@@ -466,7 +468,7 @@ My CPU has 64 threads in order to do things in parallel. I am looking for things
 4. Running test builds (with coverage)
 5. 
 
-# 91. Small ideas
+# 91. Idea collection
 
 * A Linux distribution could come with a working development environment already configured to write applications in.
 * A package manager for Nginx files. Installs different virtual hosts with different server names for hosting multiple apps at the same URL.
