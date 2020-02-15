@@ -72,7 +72,7 @@ Existing:
 
 # 11. Additive GUIs
 
-Represent the commands that generate GUIs as a monotonically increasing set of statements about the GUI and declaratively render a GUI based on propositions of widgets in relationship to one another. Has the property of being able to extend existing GUIs by simply making more statements. See http://github.com/samsquire/additive-guis Imagine if a set of tweets could render a GUI.
+GUIs can be represented as a commutative set of statements. Represent the commands that generate GUIs as a monotonically increasing set of statements about the GUI and declaratively render a GUI based on propositions of widgets in relationship to one another. Has the property of being able to extend existing GUIs by simply making more statements. See http://github.com/samsquire/additive-guis Imagine if a set of tweets could render a GUI.
 
 # 12. Recommended music for webpage
 
