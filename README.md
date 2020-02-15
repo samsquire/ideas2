@@ -466,17 +466,16 @@ My CPU has 64 threads in order to do things in parallel. I am looking for things
 4. Running test builds (with coverage)
 5. 
 
-# 91. Desktop distribution has a development environment
+# 91. Small ideas
 
-A Linux distribution could come with a working development environment already configured to write applications in.
+* A Linux distribution could come with a working development environment already configured to write applications in.
+* A package manager for Nginx files. Installs different virtual hosts with different server names for hosting multiple apps at the same URL.
 
-# 92. VHost Package Manager
-
-Installs Nginx configuration files to sites-available with different server_names so you can run multiple services at home.
+# 92. 
 
 # 93. Distributed spreadsheets
 
-Spreadsheets that run across multiple machines for performance and parallelism.
+Spreadsheets that run across multiple machines for performance and parallelism. Cells can be configured to come from other computers.
 
 # 94. Spreadsheet web designer
 
