@@ -509,5 +509,9 @@ Spreadsheets are helpful views of data. Can open a database with a spreadsheet v
 
 A language where you can request properties of your data structure to select an implementation. This could enhance [cost aware computing](https://github.com/samsquire/ideas#43-cost-aware-computing).
 
-# 97. 
+# 97. Community Idea: GUI Vote
+
+Vote what should be visible in a GUI screen.
+
+# 98. 
 
