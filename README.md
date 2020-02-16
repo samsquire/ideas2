@@ -491,6 +491,8 @@ My CPU has 64 threads in order to do things in parallel. I am looking for things
 
 It should be possible to queue operations on a desktop computer.
 
+ * On the command line, the expected result of an action should be known in advance so things can be queued off it.
+
 # 93. Distributed spreadsheets
 
 Spreadsheets that run across multiple machines for performance and parallelism. Cells can be configured to come from other computers.
@@ -499,7 +501,7 @@ Spreadsheets that run across multiple machines for performance and parallelism. 
 
 A development server that can be the destination of any web form. Using the primitives map, filer, reduce, a spreadsheet that lets you see incoming data and transform it into a web page.
 
-# 95. Spreadsheet formula to SQL
+# 95. Open database as spreadsheet
 
 Spreadsheets are helpful views of data. Can open a database with a spreadsheet viewer and convert spreadsheet formulas into SQL.
 
