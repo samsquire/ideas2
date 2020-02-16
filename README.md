@@ -480,13 +480,16 @@ My CPU has 64 threads in order to do things in parallel. I am looking for things
 3. Compiling
 4. Running test builds (with coverage)
 5. Packaging up Linux distributions with packages pre-installed
+6. @Home projects like Folding@Home, SETI@Home
 
 # 91. Idea collection
 
 * A Linux distribution could come with a working development environment already configured to write applications in.
 * A package manager for Nginx files. Installs different virtual hosts with different server names for hosting multiple apps at the same URL.
 
-# 92. 
+# 92. GUI Thunks
+
+It should be possible to queue operations on a desktop computer.
 
 # 93. Distributed spreadsheets
 
