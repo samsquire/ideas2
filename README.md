@@ -406,14 +406,14 @@ Log rich data structures and assert across the data structures that were logged 
 
 # 81. Structured Logging Based Development
 
-Write an end-to-end flow of programmatically readable log lines that should happen at each step of a process. Can assign which machines carries out which log line. For example, the following log definition handles registration whereby the server contacts the email service to send an email.
+Write an end-to-end flow example log for your software and assign what machines carries out which log line so that communication between machines can be inferred by log entries by jumping between machines. For example, the following log definition handles registration whereby the server contacts the email service to send an email.
 
 ```
 Registering user :username,server
 Sending verify email,emailservice
 ```
 
-The log lines act as an interface to implement against.  Infer communication between log entries by jumps between machines. Pass contextual information automatically to the next service.
+The log lines act as an interface to implement against and automaticlaly pass context information automatically to the next service.
 
 See https://github.com/samsquire/structured-logging-2-system
 
