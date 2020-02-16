@@ -507,7 +507,7 @@ Spreadsheets are helpful views of data. Can open a database with a spreadsheet v
 
 # 96. Data structure configurer
 
-A language where you can request properties of your data structure to select an implementation.
+A language where you can request properties of your data structure to select an implementation. This could enhance [cost aware computing](https://github.com/samsquire/ideas#43-cost-aware-computing).
 
 # 97. 
 
