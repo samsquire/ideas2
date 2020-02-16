@@ -505,5 +505,9 @@ A development server that can be the destination of any web form. Using the prim
 
 Spreadsheets are helpful views of data. Can open a database with a spreadsheet viewer and convert spreadsheet formulas into SQL.
 
-# 96. 
+# 96. Data structure configurer
+
+A language where you can request properties of your data structure to select an implementation.
+
+# 97. 
 
