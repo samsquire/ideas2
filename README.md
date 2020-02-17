@@ -72,7 +72,7 @@ Existing:
 
 # 11. Additive GUIs
 
-GUIs can be represented as a commutative set of statements. Represent the commands that generate GUIs as a monotonically increasing set of statements about the GUI and declaratively render a GUI based on propositions of widgets in relationship to one another. Has the property of being able to extend existing GUIs by simply making more statements. See http://github.com/samsquire/additive-guis Imagine if a set of tweets could render a GUI.
+GUIs can be declarative. GUIs can be represented as a commutative set of statements. In the form of `widgetA leftOf widgetB`. Represent the commands that generate GUIs as a monotonically increasing set of statements about the GUI and declaratively render a GUI based on propositions of widgets in relationship to one another. Has the property of being able to extend existing GUIs by simply making more statements. See http://github.com/samsquire/additive-guis Imagine if a set of tweets could render a GUI.
 
 # 12. Recommended music for webpage
 
@@ -520,8 +520,6 @@ A language where you can request properties of your data structure to select an 
 
 Vote what should be visible in a GUI screen. Used to implement a [drill-down interface](https://github.com/samsquire/ideas#41-drill-down-interface).
 
-# 98. Declarative GUIs
-
-Rules for rendering a GUI can be specified and the system tries to render the GUI according to rules.
+# 98. 
 
 # 99. 
