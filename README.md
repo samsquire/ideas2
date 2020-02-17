@@ -524,4 +524,8 @@ Vote what should be visible in a GUI screen. Used to implement a [drill-down int
 
 Browse trees, lists and other data structures being used to render GUIs or programs.
 
-# 99. 
+# 99. Entrypoints folder
+
+Every source repository should have an entrypoints folder whereby the various entry points for the application is obvious.
+
+# 100.
