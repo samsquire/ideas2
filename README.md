@@ -502,6 +502,8 @@ My CPU has 64 threads in order to do things in parallel. I am looking for things
 It should be possible to queue operations on a desktop computer.
 
  * On the command line, the expected result of an action should be known in advance so things can be queued off it.
+ 
+See https://github.com/samsquire/gui-thunks
 
 # 93. Distributed spreadsheets
 
