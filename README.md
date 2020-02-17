@@ -518,7 +518,10 @@ A language where you can request properties of your data structure to select an 
 
 # 97. Community Idea: GUI Vote
 
-Vote what should be visible in a GUI screen.
+Vote what should be visible in a GUI screen. Used to implement a [drill-down interface](https://github.com/samsquire/ideas#41-drill-down-interface).
 
-# 98. 
+# 98. Declarative GUIs
 
+Rules for rendering a GUI can be specified and the system tries to render the GUI according to rules.
+
+# 99. 
