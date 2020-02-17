@@ -493,6 +493,9 @@ My CPU has 64 threads in order to do things in parallel. I am looking for things
 
 * A Linux distribution could come with a working development environment already configured to write applications in.
 * A package manager for Nginx files. Installs different virtual hosts with different server names for hosting multiple apps at the same URL.
+* **Community Idea: GUI Vote**: Vote what should be visible in a GUI screen. Used to implement a [drill-down interface](https://github.com/samsquire/ideas#41-drill-down-interface).
+* **Data structure browser** Browse trees, lists and other data structures being used to render GUIs or programs.
+* **Entrypoints folder** Every source repository should have an entrypoints folder whereby the various entry points for the application is obvious.
 
 # 92. GUI Thunks
 
@@ -516,16 +519,10 @@ Spreadsheets are helpful views of data. Can open a database with a spreadsheet v
 
 A language where you can request properties of your data structure to select an implementation. This could enhance [cost aware computing](https://github.com/samsquire/ideas#43-cost-aware-computing).
 
-# 97. Community Idea: GUI Vote
+# 97. 
 
-Vote what should be visible in a GUI screen. Used to implement a [drill-down interface](https://github.com/samsquire/ideas#41-drill-down-interface).
+# 98. 
 
-# 98. Data structure browser
-
-Browse trees, lists and other data structures being used to render GUIs or programs.
-
-# 99. Entrypoints folder
-
-Every source repository should have an entrypoints folder whereby the various entry points for the application is obvious.
+# 99. 
 
 # 100.
