@@ -520,6 +520,8 @@ A language where you can request properties of your data structure to select an 
 
 Vote what should be visible in a GUI screen. Used to implement a [drill-down interface](https://github.com/samsquire/ideas#41-drill-down-interface).
 
-# 98. 
+# 98. Data structure browser
+
+Browse trees, lists and other data structures being used to render GUIs or programs.
 
 # 99. 
