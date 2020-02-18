@@ -493,7 +493,7 @@ My CPU has 64 threads in order to do things in parallel. I am looking for things
 
 # 92. GUI Thunks
 
-It should be possible to queue operations on a desktop computer.
+Operations can be queued in a desktop environment without a macro recording functionality.
 See https://github.com/samsquire/gui-thunks
 
 # 93. Distributed spreadsheets
