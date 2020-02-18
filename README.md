@@ -40,13 +40,6 @@ https://lifestyle-subscriptions.com
 # 7. Human Query Engine
 
 A filled inbox of questions to answer and questions generated based on my answers to previous questions. Uses random lists of words to ask interesting questions such as "Is **thingA** better than **thingB**" or "Is **thingA** meaningful with **thingB**?" or "How much money do you have in your bank account?". The data collected could be used to implement [life engine](https://github.com/samsquire/ideas#5-life-engine) and can be used to study.
-
-Example questions:
-
- * Are you (emotion) today? (mood tracking)
- * Do you know where your (random possession) are?
- * Have you tested your backup today?
- * Have you exercised today?
  
 Existing:
 
