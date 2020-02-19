@@ -525,7 +525,6 @@ Every UI container should be tracking how many items are inside it. From this da
 
 # 98. Browser technologies: Skip serialization
 
-Imagine a language that could create DOM objects directly in memory, without serialization to HTML.
 
 
 # 99. 
