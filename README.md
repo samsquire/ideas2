@@ -489,7 +489,7 @@ My CPU has 64 threads in order to do things in parallel. I am looking for things
 * **Community Idea: GUI Vote**: Vote what should be visible in a GUI screen. Used to implement a [drill-down interface](https://github.com/samsquire/ideas#41-drill-down-interface).
 * **Data structure browser** Browse trees, lists and other data structures being used to render GUIs or programs.
 * **Entrypoints folder** Every source repository should have an entrypoints folder whereby the various entry points for the application is obvious.
-* **Download and install simultaneously** Ubuntu could run a download and installation in parallel.
+* **Download and install simultaneously** When downloading multiple packages, Apt-get currently downloads, then installs. It could run a download and installation in parallel.
 
 # 92. GUI Thunks
 
