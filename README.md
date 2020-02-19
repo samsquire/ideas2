@@ -523,8 +523,7 @@ Every UI container should be tracking how many items are inside it. From this da
 * Flamegraphs
 * Performance profiling
 
-# 98. Browser technologies: Skip serialization
-
+# 98. 
 
 
 # 99. 
