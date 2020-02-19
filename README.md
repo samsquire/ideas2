@@ -342,7 +342,7 @@ My computer has lots of spare resources. My computer is powerful enough to run d
 
 # 72. Task Store
 
-A shop of things that people can do with their computers. Not necessarily apps but the interoperation of multiple services installed to create some behaviour. For example, you could be guided through the process to create a website and then the following things happen:
+There should be a menu in a desktop that is like a search for a task. So if you want to add numbers, you might be guided towards a spreadsheet. A shop of things that people can do with their computers. Not necessarily apps but the interoperation of multiple services installed to create some behaviour. For example, you could be guided through the process to create a website and then the following things happen:
 
 ```
     "Now you have a website, the following tasks are open to you"
@@ -520,9 +520,14 @@ Every UI container should be tracking how many items are inside it. From this da
 * View recycling
 * Bitmap caching
 * View invalidation
+* Flamegraphs
+* Performance profiling
 
 # 98. 
 
+
+
+
 # 99. 
 
-# 100.
+# 100. 
