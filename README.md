@@ -182,7 +182,7 @@ Spin up Docker containers from a chat room. Write SQL. Write JSX React component
 
 # 36. Wiki Problem System
 
-A wiki that is pointed at a kubernetes or docker swarm environment with pages for various kinds of software. I can simply begin using different kinds of software that I can find via the wiki without an active deployment step. I can surf into some software. The distributed computing page provides implementations and various interfaces for distributed computing that I can use. I can write code that depends on a problem page. Each page is like an API. I should be able to import a page from a programming language.
+A wiki that is pointed at a kubernetes or docker swarm environment with pages for various kinds of software. I can simply begin using different kinds of software that I can find via the wiki without an active deployment step. I can surf into some software. The distributed computing page provides implementations and various interfaces for distributed computing that I can use. I can write code that depends on a problem page. Each page is like an API. I should be able to import a page in a programming language.
 
 ```
 import problem.wiki/a*-algorithm
