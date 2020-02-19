@@ -176,9 +176,9 @@ Like a chat bot that messages you instead of you messaging it. As part of the Hu
 
 Run a key logger that logs data entered into every program on a computer to keep a record of personal data.
 
-# 35. Chat development environment
+# 35. Conversational development
 
-Spin up Docker containers from a chat room. Write SQL. Write JSX React components in chat. Write Redux actions in the chat room. Everyone runs the same code and anyone can make a change anywhere. Without touching a text editor.
+Can software development be done as a conversation? Spin up Docker containers from a chat room. Write SQL. Write JSX React components in chat. Write Redux actions in the chat room. Everyone runs the same code and anyone can make a change anywhere. Without touching a text editor.
 
 # 36. Wiki Problem System
 
