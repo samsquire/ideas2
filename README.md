@@ -16,7 +16,7 @@ Computational problems can be rendered into labelled graphical video streams upo
 
 # 4. Paper Work Language
 
-We need a way to define work. All work can be represented digitally. This standard is that a piece of work must fit on an A4 piece of paper. A bit like a job description but each page represents a task. So you have a piece of A4 paper describing one piece of work to do. Each piece of work can depend on other pieces of work. Can be integrated into a continuous integration pipeline for human beings. Work appears in your work inbox.
+We need a way to define work. All work can be represented digitally: take A to B, assemble X with Y. This standard is that a piece of work must fit on an A4 piece of paper. A bit like a job description but each page represents a task. So you have a piece of A4 paper describing one piece of work to do. Each piece of work can depend on other pieces of work. Can be integrated into a continuous integration pipeline for human beings. Work appears in your work inbox.
 
 Existing:
 
