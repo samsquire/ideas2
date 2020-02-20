@@ -304,7 +304,7 @@ People should be able to do work via a mobile phone and be paid for it. We need 
 
 # 63. Title Finder - Vote on the division of work
 
-People with the same title do different things. We could decentralize by voting what tasks constitutes a newly named role and eliminate burnout by creating accurate titles and begin responsibilities off the same people who do most of the work in society.
+People with the same title do different things. We could decentralize by voting what tasks constitutes a newly named role and eliminate burnout by creating accurate titles. We could identify who does most of the work in society.
 
 # 64. Crowd database that doesn't break between releases
 
