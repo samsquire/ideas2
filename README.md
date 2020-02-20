@@ -514,8 +514,9 @@ A language where you can request properties of your data structure to select an 
 
 # 97. Telemetry enabled desktop
 
-Every UI container should be tracking how many items are inside it. From this data we can accumulate what data structures to use for every UI widget on the screen. From this we can make decisions on things like the following:
+Every UI container should be tracking how many items are inside it. From this data we can decide what data structures and widgets to use for every UI widget on the screen. From this we can make decisions on things like the following:
 
+* View performance (timings)
 * View lifetimes
 * View recycling
 * Bitmap caching
