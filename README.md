@@ -526,7 +526,7 @@ Every UI container should be tracking how many items are inside it. From this da
 
 # 98. Business cloud
 
-Provisioning of real life things and the commoditisation of business plans.
+Provision people and provisioning of real life things and the commoditisation of business plans.
 
 # 99. 
 
