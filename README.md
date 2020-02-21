@@ -6,6 +6,11 @@ This is a list of new ideas since [my last 100 ideas](https://github.com/samsqui
 
 Contracts should be digitised so that anyone on any side of any contract can see what they are responsible for and any actions they can take within the contract. There should be a UI for interacting with the contract. If I have a contract with a company and can legally fetch my private data, I should be able to request that data through the UI. Or if I have a phone contract and I am eligible for an upgrade, I should be able to upgrade through the UI.
 
+Existing:
+
+* [clause](https://clause.io/)
+* [monax](https://monax.io/)
+
 # 2. Mobile legal business creation and Personal ERP
 
 Someone with a phone should be able to just create a business that satisfies all reporting requirements and is a legal entity. I want to see a mobile phone app that implements enterprise resource planning for the gig economy.
