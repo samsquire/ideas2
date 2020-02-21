@@ -411,7 +411,7 @@ Registering user :username,server
 Sending verify email,emailservice
 ```
 
-The log lines act as an interface to implement against and automaticlaly pass context information automatically to the next service.
+The log lines act as an interface to implement against and automatically pass context information automatically to the next service.
 
 See https://github.com/samsquire/structured-logging-2-system
 
@@ -531,7 +531,7 @@ Every UI container should be tracking how many items are inside it. From this da
 
 # 98. Business cloud
 
-Provision people and provisioning of real life things and the commoditisation of business plans.
+Provision people and provisioning of real life things and the commoditisation of business plans. Schedule people, buildings, vehicles from one central website.
 
 # 99. 
 
