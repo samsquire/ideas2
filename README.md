@@ -495,6 +495,7 @@ My CPU has 64 threads in order to do things in parallel. I am looking for things
 * **Data structure browser** Browse trees, lists and other data structures being used to render GUIs or programs.
 * **Entrypoints folder** Every source repository should have an entrypoints folder whereby the various entry points for the application is obvious.
 * **Download and install simultaneously** When downloading multiple packages, Apt-get currently downloads, then installs. It could run a download and installation in parallel.
+* **Error synchronisation** Whenever there's an error, report it somewhere.
 
 # 92. GUI Thunks
 
