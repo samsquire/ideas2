@@ -535,6 +535,6 @@ A marketplace of business space, business services, employment, products and ser
 
 # 99. Deep Lever
 
-Every feature of a piece of software has associated metadata that is available from every interface of that software. This metadata is a set of rules as to how that software is delivered.
+Every feature of a piece of software has associated metadata. This metadata for a service should be configurable.
 
 # 100. 
