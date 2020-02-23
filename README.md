@@ -533,6 +533,8 @@ Every UI container should be tracking how many items are inside it. From this da
 
 A marketplace of business space, business services, employment, products and services that can be provisioned by data and code through the commodisation of all business plans so that real life businesses can be created by software. Schedule people, buildings, vehicles from one central place.
 
-# 99. 
+# 99. Digital magazines
+
+A personal computer inbox of automatically updating magazines about your machine. For example, you'll receive a disk space magazine which shows how disk space is being used in the same format as SequoiaView. 
 
 # 100. 
