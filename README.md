@@ -535,6 +535,6 @@ A marketplace of business space, business services, employment, products and ser
 
 # 99. Deep Lever
 
-Every feature of a piece of software has associated metadata. This metadata for a service should be configurable.
+Given a lever long enough, it's possible to cause movement at a distance. The UI required by a feature should be captured by metadata so that the UI can be controlled and tweaked at run time.
 
 # 100. 
