@@ -531,7 +531,7 @@ Every UI container should be tracking how many items are inside it. From this da
 
 # 98. Business cloud
 
-A marketplace of business space, business services, employment, produces and services that can be provisioned by code through the commodisation of all business plans so that real life businesses can be created by software. Schedule people, buildings, vehicles from one central place.
+A marketplace of business space, business services, employment, products and services that can be provisioned by data and code through the commodisation of all business plans so that real life businesses can be created by software. Schedule people, buildings, vehicles from one central place.
 
 # 99. 
 
