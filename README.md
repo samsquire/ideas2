@@ -542,6 +542,6 @@ A marketplace of business space, business services, employment, products and ser
 
 # 99. Community Idea: Secret Sauce
 
-Understand what a project does by looking at the secret sauce. The secret sauce of Kubernetes is that it runs Docker run for you.
+Understand what a project does by looking at what API calls a piece of software uses. The secret sauce of Kubernetes is that it runs Docker run for you.
 
 # 100. 
