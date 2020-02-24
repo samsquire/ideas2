@@ -540,6 +540,8 @@ Every UI container should be tracking how many items are inside it. From this da
 
 A marketplace of business space, business services, employment, products and services that can be provisioned by data and code through the commodisation of all business plans so that real life businesses can be created by software. Schedule people, buildings, vehicles from one central place.
 
-# 99. 
+# 99. Community Idea: Secret Sauce
+
+Understand what a project does by looking at the secret sauce. The secret sauce of Kubernetes is that it runs Docker run for you.
 
 # 100. 
