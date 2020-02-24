@@ -2,6 +2,8 @@
 
 This is a list of new ideas since [my last 100 ideas](https://github.com/samsquire/ideas). I hope you enjoy them as much as I did thinking about them and writing them down.
 
+[Follow me on Twitter](https://twitter.com/mrsamuelsquire)
+
 # 1. Digital Contracts
 
 Contracts should be digitised so that anyone on any side of any contract can see what they are responsible for and any actions they can take within the contract. There should be a UI for interacting with the contract. If I have a contract with a company and can legally fetch my private data, I should be able to request that data through the UI. Or if I have a phone contract and I am eligible for an upgrade, I should be able to upgrade through the UI.
