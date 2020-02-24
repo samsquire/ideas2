@@ -489,14 +489,14 @@ My CPU has 64 threads in order to do things in parallel. I am looking for things
 
 # 91. Idea collection
 
-* A Linux distribution could come with a working development environment already configured to write applications in.
-* A package manager for Nginx files. Installs different virtual hosts with different server names for hosting multiple apps at the same URL.
+* **Baked in development environments** A Linux distribution could come with a working development environment already configured to write applications in.
+* A package manager for Nginx files. Installs different virtual hosts with different server names for hosting multiple apps on the same nginx server
 * **Community Idea: GUI Vote**: Vote what should be visible in a GUI screen. Used to implement a [drill-down interface](https://github.com/samsquire/ideas#41-drill-down-interface).
 * **Data structure browser** Browse trees, lists and other data structures being used to render GUIs or programs.
 * **Entrypoints folder** Every source repository should have an entrypoints folder whereby the various entry points for the application is obvious.
 * **Download and install simultaneously** When downloading multiple packages, Apt-get currently downloads, then installs. It could run a download and installation in parallel.
 * **Error synchronisation** Whenever there's an error, report it somewhere.
-* **Desktop content** Desktops should be filled with content to browse and peruse.
+* **Content for Desktop environments** Desktops should be filled with content to browse and peruse.
 * **Messaging Topology format** It would be nice if messaging systems supported a generic format for creating a messaging topology. For publish/subscribe and distribution lists.
 * **Single file GUI** A GUI format that bundles rendering information with data queries.
 
