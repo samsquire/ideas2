@@ -498,6 +498,7 @@ My CPU has 64 threads in order to do things in parallel. I am looking for things
 * **Error synchronisation** Whenever there's an error, report it somewhere.
 * **Desktop content** Desktops should be filled with content to browse and peruse.
 * **Messaging Topology format** It would be nice if messaging systems supported a generic format for creating a messaging topology. For publish/subscribe and distribution lists.
+* **Single file GUI** A GUI format that bundles rendering information with data queries.
 
 # 92. GUI Thunks
 
