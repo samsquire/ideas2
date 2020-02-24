@@ -496,6 +496,7 @@ My CPU has 64 threads in order to do things in parallel. I am looking for things
 * **Entrypoints folder** Every source repository should have an entrypoints folder whereby the various entry points for the application is obvious.
 * **Download and install simultaneously** When downloading multiple packages, Apt-get currently downloads, then installs. It could run a download and installation in parallel.
 * **Error synchronisation** Whenever there's an error, report it somewhere.
+* **Desktop content** Desktops should be filled with content in the form of precanned workflows, magazines.
 
 # 92. GUI Thunks
 
