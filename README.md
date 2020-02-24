@@ -502,6 +502,7 @@ Ideas that are not large enough for their own section.
 * **Messaging Topology format** It would be nice if messaging systems supported a generic format for creating a messaging topology. For publish/subscribe and distribution lists.
 * **Single file GUI** A GUI format that bundles rendering information with data queries.
 * **Digital magazines** A personal computer inbox of automatically updating magazines about your machine. For example, you'll receive a disk space magazine which shows how disk space is being used in the same format as SequoiaView. 
+* **Community Idea: Secret Sauce** Understand what a project does by looking at what API calls a piece of software uses. The secret sauce of Kubernetes is that it runs Docker run for you.
 
 # 92. GUI Thunks
 
@@ -540,8 +541,6 @@ Every UI container should be tracking how many items are inside it. From this da
 
 A marketplace of business space, business services, employment, products and services that can be provisioned by data and code through the commodisation of all business plans so that real life businesses can be created by software. Schedule people, buildings, vehicles from one central place.
 
-# 99. Community Idea: Secret Sauce
-
-Understand what a project does by looking at what API calls a piece of software uses. The secret sauce of Kubernetes is that it runs Docker run for you.
+# 99. 
 
 # 100. 
