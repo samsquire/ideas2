@@ -1,4 +1,4 @@
-# Another 85 Ideas for Computing
+# Another 85+ Ideas for Computing
 
 This is a list of new ideas since [my last 100 ideas](https://github.com/samsquire/ideas). I hope you enjoy them as much as I did thinking about them and writing them down.
 
