@@ -489,6 +489,8 @@ My CPU has 64 threads in order to do things in parallel. I am looking for things
 
 # 91. Idea collection
 
+Ideas that are not large enough for their own section.
+
 * **Baked in development environments** A Linux distribution could come with a working development environment already configured to write applications in.
 * A package manager for Nginx files. Installs different virtual hosts with different server names for hosting multiple apps on the same nginx server
 * **Community Idea: GUI Vote**: Vote what should be visible in a GUI screen. Used to implement a [drill-down interface](https://github.com/samsquire/ideas#41-drill-down-interface).
