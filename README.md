@@ -543,6 +543,10 @@ Every UI container should be tracking how many items are inside it. From this da
 
 A marketplace of business space, business services, employment, products and services that can be provisioned by data and code through the commodisation of all business plans so that real life businesses can be created by software. Schedule people, buildings, vehicles from one central place.
 
-# 99. 
+# 99. Deep Lever
+
+You have some information, such as a username, a ID number or reference. Wherever this piece of information is displayed, you want to enforce that certain interaction is possible with this information. This is a deep lever. You need some kind of data structure to define the rules of this information. If you don't want to implement this by hand every time, you need a deep lever and testing in the field.
+
+https://github.com/samsquire/ideas#53-web-state-machines-for-testing
 
 # 100. 
