@@ -547,7 +547,9 @@ A coffee shop can be represented as code and data structures and the systems nee
 
 # 99. Deep Lever
 
-You have some information, such as a username, a ID number or reference. Or a feature whereby people can trigger an edit somewhere in your application. Wherever this piece of information is displayed, you want to enforce that certain interaction is possible with this information. This is a deep lever. You need some kind of data structure to define the rules of this information. If you don't want to implement this by hand every time, you need a deep lever and testing in the field.
+I am still working on this idea.
+
+You have some information, such as a username, a ID number or reference. Or a feature whereby people can trigger an edit somewhere in your application. Wherever this piece of information is displayed, you want to enforce that certain interaction is possible with this information. Or whenever you show a phone number, you want to show a way of chatting too. This is a deep lever. You need some kind of data structure to define the rules of this information. If you don't want to implement this by hand every time, you need a deep lever and testing in the field.
 
 https://github.com/samsquire/ideas#53-web-state-machines-for-testing
 
