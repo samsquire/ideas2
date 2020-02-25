@@ -505,6 +505,7 @@ Ideas that are not large enough for their own section.
 * **Single file GUI** A GUI format that bundles rendering information with data queries.
 * **Digital magazines** A personal computer inbox of automatically updating magazines about your machine. For example, you'll receive a disk space magazine which shows how disk space is being used in the same format as SequoiaView. 
 * **Community Idea: Secret Sauce** Understand what a project does by looking at what API calls a piece of software uses. The secret sauce of Kubernetes is that it runs Docker run for you.
+* **Naive grid** A grid that can be used naively but still executes views efficiently.
 
 # 92. GUI Thunks
 
