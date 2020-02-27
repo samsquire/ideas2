@@ -507,6 +507,7 @@ Ideas that are not large enough for their own section.
 * **Community Idea: Secret Sauce** Understand what a project does by looking at what API calls a piece of software uses. The secret sauce of Kubernetes is that it runs Docker run for you.
 * **Naive grid** A grid that can be used naively but still executes views efficiently.
 * **JSON Paging** A way to write naive code that still performs well.
+* **Visual package manager** Cards to represent each package. Example use in the cards.
 
 # 92. GUI Thunks
 
