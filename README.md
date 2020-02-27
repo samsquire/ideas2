@@ -558,3 +558,11 @@ https://github.com/samsquire/ideas#53-web-state-machines-for-testing
 # 100. 
 
 
+# Notes
+
+Label-Click-Click:
+Raise new query
+
+literate programming story introduce test case all together
+
+JSON PAGING write naive code in a certain way, get advanced performance characteristics 
