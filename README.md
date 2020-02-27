@@ -560,7 +560,7 @@ https://github.com/samsquire/ideas#53-web-state-machines-for-testing
 
 # Notes
 
-Label-Click-Click:
+Label-Click-Update:
 Raise new query
 
 literate programming story introduce test case all together
