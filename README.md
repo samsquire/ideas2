@@ -561,7 +561,15 @@ https://github.com/samsquire/ideas#53-web-state-machines-for-testing
 
 # Notes
 
-Label-Click-Update:
+```
+Label-Click:
+  raise_data:
+     kind: collection
+     query: select * from collection where id = label.id
+```
+
+Use of the syntax `label-click` to register an onclick event. Then provide a snapshot of where new data comes from. The GUI as a whole updates as a new snapshot is retrieved.
+
 Raise new query
 
 literate programming story introduce test case all together
