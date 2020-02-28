@@ -530,6 +530,12 @@ Spreadsheets are helpful views of data. Can open a database with a spreadsheet v
 
 A language where you can request properties of your data structure to select an implementation. This could enhance [cost aware computing](https://github.com/samsquire/ideas#43-cost-aware-computing).
 
+Imagine needing to import a sort algorithm, I can pass properties to the import command such as needing to import a sort algorithm that doesn't care about stable sorting and can deal with partially presorted data:
+
+```
+import "sort" stable=false presorted=true
+```
+
 # 97. Telemetry enabled desktop
 
 Every UI container should be tracking how many items are inside it. From this data we can decide what data structures and widgets to use for every UI widget on the screen. From this we can collect:
