@@ -592,3 +592,5 @@ JSON PAGING write naive code in a certain way, get advanced performance characte
 
 Things written as communication protocols are easier to program and reason about. Concurrency too (see go and occam pi)
 Turn the GUI into a communication problem.
+
+Permutations and validity.
