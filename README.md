@@ -510,6 +510,7 @@ Ideas that are not large enough for their own section.
 * **Naive grid** A grid that can be used naively but still executes views efficiently.
 * **JSON Paging** Imagine you have an application with buttons and the buttons load data that could possibly be millions of records, I should be able to write my code as if it is very naive and all the data fits in memory, even if it doesn't. Before the GUI code is scheduled to run, the plumbing should automatically make paged requests to the server.
 * **Visual package manager** Cards to represent each package. Example use in the cards.
+* **Write code single threaded and single host synchronously execute and multihost multithreaded asynchronously** Write code as if it executes as a single thread of communication.
 
 # 92. GUI Thunks
 
@@ -580,7 +581,7 @@ Label-Click:
      query: select * from collection where id = label.id
 ```
 
-Use of the syntax `label-click` to register an onclick event. Then provide a snapshot of where new data comes from. The GUI as a whole updates as a new snapshot is retrieved.
+Use of the syntax `label-click` to register an onclick event. Then provide the instructions on what the new state is. The GUI as a whole updates as a new snapshot is retrieved.
 
 Raise new query
 
