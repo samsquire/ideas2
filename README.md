@@ -511,6 +511,7 @@ Ideas that are not large enough for their own section.
 * **JSON Paging** Imagine you have an application with buttons and the buttons load data that could possibly be millions of records, I should be able to write my code as if it is very naive and all the data fits in memory, even if it doesn't. Before the GUI code is scheduled to run, the plumbing should automatically make paged requests to the server.
 * **Visual package manager** Cards to represent each package. Example use in the cards.
 * **Write code single threaded and single host synchronously execute and multihost multithreaded asynchronously** Write code as if it executes as a single thread of communication.
+* **Data flow control** Flow control implemented from the database through to the frontend for suction of data.
 
 # 92. GUI Thunks
 
@@ -588,3 +589,6 @@ Raise new query
 literate programming story introduce test case all together
 
 JSON PAGING write naive code in a certain way, get advanced performance characteristics 
+
+Things written as communication protocols are easier to program and reason about. Concurrency too (see go and occam pi)
+Turn the GUI into a communication problem.
