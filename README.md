@@ -578,8 +578,6 @@ https://github.com/samsquire/ideas#53-web-state-machines-for-testing
 
 literate programming story introduce test case all together
 
-JSON PAGING write naive code in a certain way, get advanced performance characteristics 
-
 Things written as communication protocols are easier to program and reason about. Concurrency too (see go and occam pi)
 Turn the GUI into a communication problem.
 
