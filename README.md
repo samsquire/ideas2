@@ -512,7 +512,7 @@ Ideas that are not large enough for their own section.
 * **Visual package manager** Cards to represent each package. Example use in the cards.
 * **Write code single threaded and single host synchronously execute and multihost multithreaded asynchronously** Write code as if it executes as a single thread of communication.
 * **Data flow control** Flow control implemented from the database through to the frontend for suction of data.
-* **Preserving window manager and desktop environment codebase purity** There are some ideas that require interaction between the desktop manager and the window manager but we do not want to pollute any of these codebases by crossing the boundary. We can instead run a daemon and hav e a daemon and a network call to implement integrations across 
+* **Preserving window manager and desktop environment codebase purity** There are some ideas that require interaction between the desktop manager and the window manager but we do not want to pollute any of these codebases by crossing the boundary. We can instead run a daemon and have a daemon and a network call to implement integrations across 
 
 # 92. GUI Thunks
 
