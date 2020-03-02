@@ -569,7 +569,11 @@ You have some information, such as a username, a ID number or reference. Or a fe
 
 https://github.com/samsquire/ideas#53-web-state-machines-for-testing
 
-# 100. Declarative GUIs
+# 100. Data shape changer
+
+Have a table of data? Use Pivottables to change the shape of the data until it is convenient to process.
+
+# 101. Declarative GUIs
 
 A GUI that is a live system that takes declarative rules of what should be where.
 
