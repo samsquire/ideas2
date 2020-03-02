@@ -569,10 +569,11 @@ You have some information, such as a username, a ID number or reference. Or a fe
 
 https://github.com/samsquire/ideas#53-web-state-machines-for-testing
 
-# 100. 
+# 100. Declarative GUIs
 
+A GUI that is a live system that takes declarative rules of what should be where.
 
-
+Every thing on the screen is mapped and filtered data streams.
 
 # Notes
 
