@@ -573,7 +573,7 @@ https://github.com/samsquire/ideas#53-web-state-machines-for-testing
 
 A GUI that is a live system that takes declarative rules of what should be where.
 
-Every thing on the screen is mapped and filtered data streams.
+Every thing on the screen originates from streams that have been mapped and filtered.
 
 # Notes
 
