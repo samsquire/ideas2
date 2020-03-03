@@ -408,7 +408,7 @@ Log rich data structures and assert across the data structures that were logged 
 
 # 81. Structured Logging Based Development
 
-Write an end-to-end flow example log for your software and assign what machines carries out which log line so that communication between machines can be inferred by log entries by jumping between machines. For example, the following log definition handles registration whereby the server contacts the email service to send an email.
+Write an end-to-end flow example log for your software and assign what machines carries out which log line so that communication between machines can be inferred by log entries by jumping between machines. For example, the following log definition CSV handles registration whereby the server contacts the email service to send an email.
 
 ```
 Registering user :username,server
