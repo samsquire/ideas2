@@ -560,15 +560,15 @@ A marketplace of business space, business services, employment, products and ser
 
 A coffee shop can be represented as code and data structures and the systems needed to provision a coffee shop should be provisionable by code.
 
-# 99. Deep Lever
+# 99. Deep Lever & Testing in the field
 
 I am still working on this idea.
 
-Imagine you have a very long lever, you can cause action at a great distance. Deep Lever means to use a data structure to enforce a rule at a great distance from where it first appears.
+Imagine you have a very long lever, you can cause action at a distance. Deep Lever means to use a data structure to drive out behaviour far from where the data structure is defined and to combine this with testing in the field. Examples:
 
-* you are selling out your company and want to enforce that the pages still work when you're sold, you create an automated script that checks if pages are reachable
+ * every time a employee name exists on your website, show an accurate phone number and contact form
 
-You have some information, such as a username, a ID number or reference. Or a feature whereby people can trigger an edit somewhere in your application. Wherever this piece of information is displayed, you want to enforce that certain interaction is possible with this information. Or whenever you show a phone number, you want to show a way of chatting too. This is a deep lever. You need some kind of data structure to define the rules of this information. If you don't want to implement this by hand every time, you need a deep lever and testing in the field.
+You have some information, such as a username, a ID number or reference. Or a feature whereby people can trigger an edit somewhere in your application. Wherever this piece of information is displayed, you want to enforce that certain interaction is possible with this information. Or whenever you show a phone number, you want to show a way of chatting too.
 
 https://github.com/samsquire/ideas#53-web-state-machines-for-testing
 
