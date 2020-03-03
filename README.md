@@ -216,13 +216,13 @@ Promises in a digital advert can be directly purchased and appear in a special a
 
 A ticket is for saying where you're trying to go, not that you've paid. Ticketless travel is possible through credit cards loaded with digital tickets and NFC.
 
-# 41. Conveyor belt GUI - Development with a chat bot
+# 41. Conveyor belt GUI
 
-Imagine if a web request response had to be constructed by a human being. The incoming request sits on a queue. The UI has conveyor belts that take relevant information to the human operator. The human operator interacts with these request objects and constructs a response object and puts it in the response conveyor belt hole.
+Imagine if a web request response had to be constructed by a human being. The incoming request sits on a queue. The UI has conveyor belts that take relevant information to the human operator. The human operator interacts with these request objects and constructs a response object
 
 # 42. Depend on language feature
 
-A programming language whereby you import language features to depend upon. Python has a PEP process and Java has JSRs. You directly depend on named groups of functionality and this determines your language experience. Perhaps the fist line of the file after the shebang says what language features to enable, such as "feature1,feature2"
+A programming language whereby you import language features to depend upon. Python has a PEP process and Java has JSRs. You directly depend on named groups of functionality and this determines your language experience. Perhaps the fist line of the file after the shebang says what language features to enable, such as "feature1,feature2,feature3"
 
 # 43. World splitting app
 
