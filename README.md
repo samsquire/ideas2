@@ -579,11 +579,6 @@ A GUI that is a live system that takes declarative rules of what should be where
 
 Every thing on the screen originates from streams that have been mapped and filtered.
 
-# Notes
+# More ideas
 
-literate programming story introduce test case all together
-
-Things written as communication protocols are easier to program and reason about. Concurrency too (see go and occam pi)
-Turn the GUI into a communication problem.
-
-Permutations and validity.
+There's [more ideas in ideas3](https://github.com/samsquire/ideas3).
