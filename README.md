@@ -514,6 +514,7 @@ Ideas that are not large enough for their own section.
 * **Data flow control** Flow control implemented from the database through to the frontend for suction of data.
 * **Preserving window manager and desktop environment codebase purity** There are some ideas that require interaction between the desktop manager and the window manager but we do not want to pollute any of these codebases by crossing the boundary. We can instead run a daemon and have a daemon and a network call to implement integrations across 
 * **Design language mapping** Write your application to one design language. When a new design language comes out, someone writes a mapping between the old design language to the new language. So that people get design upgrades for free.
+* **Community Idea: Digestible documents** Complicated documents distilled to Tweets that you can consume at your own pace.
 
 # 92. GUI Thunks
 
