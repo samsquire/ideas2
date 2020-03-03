@@ -563,7 +563,9 @@ A coffee shop can be represented as code and data structures and the systems nee
 
 I am still working on this idea.
 
-Imagine you have a lever, you can cause action at a great distance. Deep Lever means to enforce some property of a system at runtime based on a data structure of rules.
+Imagine you have a very long lever, you can cause action at a great distance. Deep Lever means to use a data structure to enforce a rule at a great distance from where it first appears.
+
+* you are selling out your company and want to enforce that the pages still work when you're sold, you create an automated script that checks if pages are reachable
 
 You have some information, such as a username, a ID number or reference. Or a feature whereby people can trigger an edit somewhere in your application. Wherever this piece of information is displayed, you want to enforce that certain interaction is possible with this information. Or whenever you show a phone number, you want to show a way of chatting too. This is a deep lever. You need some kind of data structure to define the rules of this information. If you don't want to implement this by hand every time, you need a deep lever and testing in the field.
 
