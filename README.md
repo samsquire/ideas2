@@ -518,7 +518,7 @@ Ideas that are not large enough for their own section.
 
 # 92. GUI Thunks
 
-Operations can be queued in a desktop environment without a macro recording functionality.
+Operations can be visually queued by interacting with objects that represent a pending operation as if it had been completed.
 See https://github.com/samsquire/gui-thunks
 
 # 93. Distributed spreadsheets
