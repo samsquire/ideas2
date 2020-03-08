@@ -5,6 +5,7 @@ This is a list of new ideas since [my last 100 ideas](https://github.com/samsqui
 * [Follow me on Twitter](https://twitter.com/mrsamuelsquire)
 * Please use issues to discuss ideas. Feel free to create issues for any thing you like.
 * You don't have to read these ideas in order, you can jump about.
+* There's a third ideas page in this series. See [ideas3](https://github.com/samsquire/ideas3)
 
 # 1. Digital Contracts
 
