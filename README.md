@@ -563,7 +563,7 @@ A marketplace of business space, business services, employment, products and ser
 
 A coffee shop can be represented as code and data structures and the systems needed to provision a coffee shop should be provisionable by code.
 
-# 99. Deep Lever & Testing in the field
+# 99. Deep Lever & Action at distance
 
 I am still working on this idea.
 
