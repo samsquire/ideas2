@@ -191,7 +191,7 @@ Run a key logger that logs data entered into every program on a computer to keep
 
 Can software development be done as a conversation? Spin up Docker containers from a chat room. Write SQL. Write JSX React components in chat. Write Redux actions in the chat room. Everyone runs the same code and anyone can make a change anywhere. Without touching a text editor.
 
-# 36. Wiki Problem System
+# 36. Instanceable Wiki
 
 A wiki that is integrated with a kubernetes or docker swarm environment with pages for various problems. I can simply begin using different kinds of software that I can find via the wiki without an active deployment step. I can surf into some software. The distributed computing page provides implementations and various interfaces for distributed computing that I can use. I can write code that depends on a problem page. Each page is like an API. I should be able to import a page in a programming language.
 
