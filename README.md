@@ -510,7 +510,6 @@ Ideas that are not large enough for their own section.
 * **Digital magazines** A personal computer inbox of automatically updating magazines about your machine. For example, you'll receive a disk space magazine which shows how disk space is being used in the same format as SequoiaView. 
 * **Community Idea: Secret Sauce** Understand what a project does by looking at what API calls a piece of software uses. The secret sauce of Kubernetes is that it runs Docker run for you.
 * **Naive grid** A grid that can be used naively but still executes views efficiently.
-* **JSON Paging** Imagine you have an application with buttons and the buttons load data that could possibly be millions of records, I should be able to write my code as if it is very naive and all the data fits in memory, even if it doesn't. Before the GUI code is scheduled to run, the plumbing should automatically make paged requests to the server.
 * **Visual package manager** Cards to represent each package. Example use in the cards.
 * **Write code single threaded and single host synchronously execute and multihost multithreaded asynchronously** Write code as if it executes as a single thread of communication.
 * **Data flow control** Flow control implemented from the database through to the frontend for suction of data.
