@@ -415,6 +415,8 @@ Write an end-to-end flow example log for your software and assign what machines 
 ```
 Registering user :username,server
 Sending verify email,emailservice
+Handling order,orderservice
+Generating invoice,invoiceservice
 ```
 
 The log lines act as an interface to implement against and automatically pass context information automatically to the next service.
