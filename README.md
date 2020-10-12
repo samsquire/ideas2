@@ -46,7 +46,7 @@ There's a single app for following any dream or any lifestyle with user created 
 
 So if you said you want a lifestyle where you can get to work within 10 minutes walk, the app would tell you where to move to and who to apply for jobs with. You could subscribe to a coffee everyday. Or if you want to regularly eat out at an upmarket restaurant, you can because your level of subscription includes a set amount of meals a month at a premium restaurant. Can deploy futures to meet demand, such as futures on restaurant tables. Can browse lifestyles in a digital online shop.
 
-https://lifestyle-subscriptions.com
+[https://lifestyle-subscriptions.com](https://lifestyle-subscriptions.com/)
 
 # 7. Human Query Engine
 
@@ -76,7 +76,7 @@ Existing:
 
 # 11. Additive GUIs
 
-GUIs can be declarative. GUIs can be represented as a commutative set of statements. In the form of `widgetA leftOf widgetB`. Represent the commands that generate GUIs as a monotonically increasing set of statements about the GUI and declaratively render a GUI based on propositions of widgets in relationship to one another. Has the property of being able to extend existing GUIs by simply making more statements. See http://github.com/samsquire/additive-guis Imagine if a set of tweets could render a GUI.
+GUIs can be declarative. GUIs can be represented as a commutative set of statements. In the form of `widgetA leftOf widgetB`. Represent the commands that generate GUIs as a monotonically increasing set of statements about the GUI and declaratively render a GUI based on propositions of widgets in relationship to one another. Has the property of being able to extend existing GUIs by simply making more statements. See [additive guis](http://github.com/samsquire/additive-guis) Imagine if a set of tweets could render a GUI.
 
 # 12. Recommended music for webpage
 
@@ -90,7 +90,7 @@ A GUI is a two dimensional representation of a multidimensional data structure s
 
 # 14. User URLs
 
-As the user mouses around the GUI, a URL should be generated which is a representation of what the user is doing at any point in time including all context from the user's perspective. This is like a very deep link into an application, as the user is a resource. See https://github.com/samsquire/user-urls
+As the user mouses around the GUI, a URL should be generated which is a representation of what the user is doing at any point in time including all context from the user's perspective. This is like a very deep link into an application, as the user is a resource. See [user urls on github](https://github.com/samsquire/user-urls)
 
 # 15. Free flowing work app
 
@@ -98,7 +98,7 @@ Replace job interviews at individual companies with interviews with an Accredita
 
 # 16. Cloud accelerated desktops
 
-Desktop computers could be accelerated by doing things remotely. If a user's filesystem is mirrored elsewhere, it can be searched remotely and results served locally without incurring any performance penalty locally. See https://github.com/samsquire/cloud-desktop
+Desktop computers could be accelerated by doing things remotely. If a user's filesystem is mirrored elsewhere, it can be searched remotely and results served locally without incurring any performance penalty locally. See [my cloud desktop repo on github](https://github.com/samsquire/cloud-desktop)
 
 # 17. Data Bento Box
 
