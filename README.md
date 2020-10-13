@@ -505,7 +505,6 @@ Ideas that are not large enough for their own section.
 * **Data structure browser** Browse trees, lists and other data structures being used to render GUIs or programs.
 * **Entrypoints folder** Every source repository should have an entrypoints folder whereby the various entry points for the application is obvious.
 * **Download and install simultaneously** When downloading multiple packages, Apt-get currently downloads, then installs. It could run a download and installation in parallel.
-* **Error synchronisation** Whenever there's an error, report it somewhere.
 * **Content for Desktop environments** Desktops should be filled with content to browse and peruse.
 * **Messaging Topology format** It would be nice if messaging systems supported a generic format for creating a messaging topology. For publish/subscribe and distribution lists.
 * **Single file GUI** A GUI format that bundles rendering information with data queries.
