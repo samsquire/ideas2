@@ -542,7 +542,7 @@ A language where you can request properties of your data structure to select an 
 Imagine needing to import a sort algorithm, I can pass properties to the import command such as needing to import a sort algorithm that doesn't care about stable sorting and can deal with partially presorted data:
 
 ```
-import "sort" stable=false presorted=true n=50000
+import "sort" stable=true partiall_sorted=true n=50000
 ```
 
 # 97. Telemetry enabled desktop
