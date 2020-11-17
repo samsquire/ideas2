@@ -569,9 +569,8 @@ I am still working on this idea.
 
 Imagine you have a very long lever, you can cause action at a distance. Deep Lever means to use a data structure to drive out behaviour far from where the data structure is defined to exert control over it. Examples:
 
- * You're an operating system company and you have a desktop application or an office application. Every dialogue, menu should be catalogued in a CMS for those things. So you can manage shortcut keys centrally.
+ * You're an operating system company and you have a desktop application or an office application. Every dialogue, menu should be catalogued in a CMS for those things. So you can manage shortcut keys centrally and generate documentation easily.
 
- * every time a employee name exists on your website, show an accurate phone number and contact form. You have some information, such as a username, a ID number or reference. Or a feature whereby people can trigger an edit somewhere in your application. Wherever this piece of information is displayed, you want to enforce that certain interaction is possible with this information. Or whenever you show a phone number, you want to show a way of chatting too.
 
 https://github.com/samsquire/ideas#53-web-state-machines-for-testing
 
