@@ -36,7 +36,7 @@ Existing:
 
 # 5. Open Demand Mapping and Want marketplaces
 
-People can insert demands for products and services into a demand marketplace within a geographical location. I want a dentist within 5 minutes walk of my home. I want a supermarket within 5 minutes walk of my home. I want to be at work within 10 minutes walk. In aggregate, people create demands on their local areas. This data can be visualised as a smattering of circles around a a central point. The intersecting demands should be surfaced and downloadable where multiple people want the same thing in the same area it should be obvious what satisfies most people's wants.
+People can insert demands for products and services into a demand marketplace within a geographical location. I want a dentist within 5 minutes walk of my home. I want a supermarket within 5 minutes walk of my home. I want to be at work within 10 minutes walk. In aggregate, people create demands on their local areas. This data can be visualised as a smattering of circles around various central points representing each person's home. The intersecting demands should be surfaced and downloadable where multiple people want the same thing in the same area it should be obvious what satisfies most people's wants.
 
 A want app exposes a market place of wants and allows people to contact others based on their wants. If people published wants accurately and tracked possessions, they could automatically organise swaps with others based on what they want.
 
