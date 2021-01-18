@@ -262,7 +262,11 @@ Existing:
 
 # 50. Empty space scheduler
 
-The ability to schedule disk space to various purposes and to schedule files to different regions of empty space. I have three hard drives My virtual disks in my VMs should also resize (to grow) automatically.
+The ability to schedule disk space to various purposes and to schedule files to different regions of empty space.
+
+I have OneDrive, Google Drive, Box and six hard drives. I want my data to be synced across all of them.
+
+My virtual disks in my VMs should also resize (to grow) automatically.
 
 # 51. Tips should be crowdsourced
 
