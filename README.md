@@ -232,6 +232,8 @@ A programming language whereby you import language features to depend upon. Pyth
 
 Territories can be occupied by people who believe in the same things. If enough people used an app and voted for what they wanted on the app and agreed to move towards where other people believe the same things, people could begin to get what they want. This idea is called world splitting because you divide the world in half when you agree with a policy.
 
+Society learns that borders delineate acceptability. It's what a neighbourhood is. What is acceptable or what people like within a set of borders, block level, strip mall level, street level, floor level. People bet on what they want, not what makes the most money and it becomes a form of voting which provides funding for said ideas for both sides. Betting forms the basis of rules that you have chosen to live by. Parallel societies - societies can fragment by what is wanted by each neighbourhood. You can create a new neighbourhood by living in a place with a set of beliefs, a placement company would try place you near to people who believe the same things as you. Everyone gets what they want.
+
 # 44. General Thing Object Editor
 
 A general purpose CRUD editor with the flexibility and power of a file explorer.
