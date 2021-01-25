@@ -90,7 +90,7 @@ Wouldn't it be nice if you could recommend a song to play with a web page as bac
 
 # 13. GUIs are queries
 
-The entire GUI could be generatable as response to a query.
+The entire GUI could be generatable as a composable query.
 
 A GUI is a two dimensional representation of a multidimensional data structure so a query is a plane slicing a high dimensional data structure.
 
