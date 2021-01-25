@@ -31,8 +31,8 @@ We need a way to define work. All work can be represented digitally: take A to B
 
 Existing:
 
-* BPMN Business Processs Modelling Notation
-* JBPMN
+* [BPMN Business Processs Modelling Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
+* [JBPMN](https://www.jbpm.org/)
 
 # 5. Open Demand Mapping and Want marketplaces
 
