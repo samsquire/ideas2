@@ -4,6 +4,7 @@ This is a list of new ideas since [my last 100 ideas](https://github.com/samsqui
 
 * [Follow me on Twitter](https://twitter.com/mrsamuelsquire)
 * You can read this document [on Github pages](https://samsquire.github.io/ideas2/) but it might be easier to read [on Github](https://github.com/samsquire/ideas2)
+* If you like my ideas please don't hesitate to contact me! I'd also enjoy reading your ideas too.
 * Please use issues to discuss ideas. Feel free to create issues for any thing you like.
 * You don't have to read these ideas in order, you can jump about.
 * This is a multipart series, see the [first ideas page, ideas1](https://github.com/samsquire/ideas) and  [third idea page in this series. See ideas3](https://github.com/samsquire/ideas3)
