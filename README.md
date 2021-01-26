@@ -222,6 +222,8 @@ Do not use your name or your personal email address for logging into websites.  
 
 Promises in a digital advert can be directly purchased and appear in a special account with one click. If I see a deal for a product at a certain price, I can click purchase on it and instantly purchase the service or product. You could be driving down a motorway and see an advert for a product on a banner and instantly purchase it with a button on your car wheel. What you're purchasing is the promise specified by the advert. It could be a product at a certain price or more likely, a capability. Each purchase is itself a marketplace as it could be that you're buying from a reseller, you're buying a promise, which means any product that satisfies the promise can ultimately be provided to you.
 
+Instantly purchase an advert. Software advertisements that contain code to install themselves and a puzzle fitter that works out how to integrate the software with your infrastructure. One click installation and integration into continuous integration.
+
 # 40. Ticketless travel
 
 A ticket is for saying where you're trying to go, not that you've paid. Ticketless travel is possible through credit cards loaded with digital tickets and NFC.
