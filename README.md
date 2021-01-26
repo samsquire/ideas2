@@ -387,6 +387,7 @@ My phone should be contactable via my desktop and by my laptops.
 Existing:
 
 * Hamachi
+* Zerotier
 
 # 74. Community idea: System Administration
 
