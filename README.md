@@ -9,7 +9,6 @@ This is a list of new ideas since [my last 100 ideas](https://github.com/samsqui
 * You don't have to read these ideas in order, you can jump about.
 * This is a multipart series, see the [first ideas page, ideas1](https://github.com/samsquire/ideas) and  [third idea page in this series. See ideas3](https://github.com/samsquire/ideas3)
 * Looking for business ideas? Checkout my [startups repository](https://github.com/samsquire/startups) where I list business ideas.
-* [I post ideas on my blog](https://elaeis.cloud-angle.com/)
 
 # 1. Digital Contracts and right affirming GUIs
 
