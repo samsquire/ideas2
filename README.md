@@ -304,6 +304,8 @@ Like CURL but for querying APIs and handling pagination for you.
 
 Every form of information collected by a corporation to go to a GUI server whereby data forms can be monitored and centrally tested.
 
+If I was an desktop environment or office software vendor I would have a server for defining every information collecting screen and drive it from this place. Can generate documentation and do data collection centrally.
+
 # 57. Stream/Pipeline editor
 
 Another program in an Office suite: An editor for streams, such as Bash pipelines or Kafka streams. Would allow you to replay data between points in the pipeline and test each stage independently.
